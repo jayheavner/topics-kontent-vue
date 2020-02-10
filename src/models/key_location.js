@@ -36,20 +36,27 @@ export class KeyLocationDistance extends ContentItem {
 
 export function flatten(item) {
   if (!item) return null;
-
-  return {
-    title: item.title.value,
-    description: item.description.value,
-    location: item.location.value,
-    locationLink: item.locationLink.value,
-    locations: flattenLocationDistances(item.locations.value)
-  };
+  debugger;
+  try {
+    return {
+      title: item.title.value,
+      description: item.description.value,
+      location: item.location.value,
+      locationLink: item.locationLink.value,
+      locations: flattenLocationDistances(item.locations.value)
+    };
+  } catch (ex) {
+    console.log(`key_location model > ${ex}`);
+  }
 }
 
 function flattenLocationDistances(item) {
   let locations = [];
   for (const location of item) {
-    locations.push({ title: location.title.value, miles: location.miles.value});
+    locations.push({
+      title: location.title.value,
+      miles: location.miles.value
+    });
   }
   return locations;
 }

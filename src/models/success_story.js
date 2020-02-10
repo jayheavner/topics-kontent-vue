@@ -9,8 +9,8 @@ export class SuccessStory extends ContentItem {
         constructor() {
         super({
             propertyResolver: ((elementName) => {
-                if (elementName === 'external_image') {
-                    return 'externalImage';
+                if (elementName === 'topics_image') {
+                    return 'topicsImage';
                 }
                 if (elementName === 'callout_text') {
                     return 'calloutText';
@@ -23,3 +23,17 @@ export class SuccessStory extends ContentItem {
         });
     }
 }
+
+export function flatten(item) {
+    if (!item) return null;
+    debugger;
+    return {
+      title: item.title.value,
+      summary: item.summary.value,
+      calloutStat: item.calloutStat.value,
+      calloutText: item.calloutText.value,
+      body: item.body.value,
+      url: item.url.value,
+      topicsImage: item.topicsImage.value[0].url,
+    };
+  }

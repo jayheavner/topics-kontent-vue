@@ -10,6 +10,7 @@ import { KeyLocation, KeyLocationDistance } from './models/key_location';
 import { ScheduleItem } from './models/schedule_item';
 import {Video} from './models/video';
 import { Speaker } from './models/speaker';
+import { SuccessStory } from './models/success_story';
 
 // configure type resolvers
 let typeResolvers = [
@@ -18,7 +19,8 @@ let typeResolvers = [
   new TypeResolver('key_location_distance', () => new KeyLocationDistance()),
   new TypeResolver('schedule_item', () => new ScheduleItem()),
   new TypeResolver('video', () => new Video()),
-  new TypeResolver('speaker', () => new Speaker()),
+  new TypeResolver('schedule_and_exhibitor_items', () => new Speaker()),
+  new TypeResolver('success_story', () => new SuccessStory()),
 ];
 
 let Client = new DeliveryClient({

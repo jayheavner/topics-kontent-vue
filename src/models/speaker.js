@@ -8,6 +8,9 @@ import { ContentItem, Elements } from '@kentico/kontent-delivery';
 export class Speaker extends ContentItem {
   constructor() {
     super({
+      richTextResolver: (rawElement) => {
+        debugger;
+      },
       itemResolver: (rawElement) => {
         debugger;
       },

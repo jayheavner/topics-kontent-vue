@@ -1,0 +1,2799 @@
+{
+    "_config": {},
+    "system": {
+        "name": "Smart Cities",
+        "codename": "smart_cities",
+        "id": "e1712c35-b7e4-4d0e-a17b-15b4ea0ad960",
+        "lastModified": "2020-02-06T22:00:00.346Z",
+        "language": "default",
+        "type": "topic",
+        "sitemapLocations": []
+    },
+    "_raw": {
+        "system": {
+            "id": "e1712c35-b7e4-4d0e-a17b-15b4ea0ad960",
+            "name": "Smart Cities",
+            "codename": "smart_cities",
+            "language": "default",
+            "type": "topic",
+            "sitemap_locations": [],
+            "last_modified": "2020-02-06T22:00:00.3464524Z"
+        },
+        "elements": {
+            "title": {
+                "type": "text",
+                "name": "Title",
+                "value": "Smart Cities"
+            },
+            "background_image": {
+                "type": "asset",
+                "name": "Background Image",
+                "value": [{
+                    "name": "2020-smart-city-background_1903x950.jpg",
+                    "description": null,
+                    "type": "image/jpeg",
+                    "size": 113056,
+                    "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/5176fd57-56c2-42cd-b57e-c4fe8c63d582/2020-smart-city-background_1903x950.jpg",
+                    "width": 1903,
+                    "height": 950
+                }]
+            },
+            "hero_text": {
+                "type": "text",
+                "name": "Hero Text",
+                "value": "Experience the technologies, solutions, players and audiences in the smart city sector — all in one place. See how industries are working with IoT, 5G connectivity, AI and more to power smart cities across the world."
+            },
+            "key_locations": {
+                "type": "modular_content",
+                "name": "Key Locations",
+                "value": ["untitled_content_item"]
+            },
+            "schedule_and_exhibitor_items": {
+                "type": "rich_text",
+                "name": "Schedule and Exhibitor Items",
+                "images": {},
+                "links": {},
+                "modular_content": ["n07a05e8b_93d1_016c_28c1_933d7f252a53", "n007a65e9_fd8b_01d3_1769_2a5012ffb4ae", "n401ac8f8_67ba_01f8_65a1_ac903427fe97", "n035d0fc7_7531_013c_9345_efd4e021b543", "bc86da28_d8bb_018f_9488_0808f07746aa", "n330eb5e2_a18f_0186_4782_21c5826a456e", "n71a347ae_306c_01ec_4ffd_8f68905ec4e9", "n4efc40da_97c3_01cd_63cc_04bcc28474e2"],
+                "value": "<object type=\"application/kenticocloud\" data-type=\"item\" data-rel=\"component\" data-codename=\"n07a05e8b_93d1_016c_28c1_933d7f252a53\"></object>\n<object type=\"application/kenticocloud\" data-type=\"item\" data-rel=\"component\" data-codename=\"n007a65e9_fd8b_01d3_1769_2a5012ffb4ae\"></object>\n<object type=\"application/kenticocloud\" data-type=\"item\" data-rel=\"component\" data-codename=\"n401ac8f8_67ba_01f8_65a1_ac903427fe97\"></object>\n<object type=\"application/kenticocloud\" data-type=\"item\" data-rel=\"component\" data-codename=\"n035d0fc7_7531_013c_9345_efd4e021b543\"></object>\n<object type=\"application/kenticocloud\" data-type=\"item\" data-rel=\"component\" data-codename=\"bc86da28_d8bb_018f_9488_0808f07746aa\"></object>\n<object type=\"application/kenticocloud\" data-type=\"item\" data-rel=\"component\" data-codename=\"n330eb5e2_a18f_0186_4782_21c5826a456e\"></object>\n<object type=\"application/kenticocloud\" data-type=\"item\" data-rel=\"component\" data-codename=\"n71a347ae_306c_01ec_4ffd_8f68905ec4e9\"></object>\n<object type=\"application/kenticocloud\" data-type=\"item\" data-rel=\"component\" data-codename=\"n4efc40da_97c3_01cd_63cc_04bcc28474e2\"></object>"
+            },
+            "featured_section_content": {
+                "type": "modular_content",
+                "name": "Featured Section Content",
+                "value": ["the_reality_of_smart_city_development"]
+            },
+            "more_about_text": {
+                "type": "text",
+                "name": "More About Text",
+                "value": "Be part of the discussion on how smart cities growth will influence policies, transportation, cities and towns, our industry and our planet. See innovative technology and hear from global leaders in IoT, 5G connectivity, transportation and smart automotive, energy and utilities, health and public safety, artificial intelligence and data analytics."
+            },
+            "callout_statistic": {
+                "type": "text",
+                "name": "Callout Statistic",
+                "value": "$34B"
+            },
+            "callout_text": {
+                "type": "text",
+                "name": "Callout Text",
+                "value": "Global smart cities spending by 2020"
+            },
+            "case_study_content": {
+                "type": "modular_content",
+                "name": "Case Study Content",
+                "value": ["bell_nexus"]
+            },
+            "latest_section_content": {
+                "type": "modular_content",
+                "name": "Latest Section Content",
+                "value": ["public_private_partnerships_to_create_smart_cities"]
+            },
+            "linked_videos": {
+                "type": "modular_content",
+                "name": "Linked Videos",
+                "value": ["blending_new_tech_and_aging_infrastructure_in_smar", "top_security_trends_in_smart_cities", "network_infrastructure_is_key_to_smart_cities"]
+            },
+            "linked_topic": {
+                "type": "modular_content",
+                "name": "Linked Topic",
+                "value": ["resilience"]
+            },
+            "url": {
+                "type": "url_slug",
+                "name": "URL",
+                "value": "smart-cities"
+            },
+            "topics_image": {
+                "type": "asset",
+                "name": "Topics Image",
+                "value": []
+            }
+        }
+    },
+    "title": {
+        "rawData": {
+            "type": "text",
+            "name": "Title",
+            "value": "Smart Cities"
+        },
+        "name": "Title",
+        "type": "text",
+        "value": "Smart Cities"
+    },
+    "backgroundImage": {
+        "rawData": {
+            "type": "asset",
+            "name": "Background Image",
+            "value": [{
+                "name": "2020-smart-city-background_1903x950.jpg",
+                "description": null,
+                "type": "image/jpeg",
+                "size": 113056,
+                "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/5176fd57-56c2-42cd-b57e-c4fe8c63d582/2020-smart-city-background_1903x950.jpg",
+                "width": 1903,
+                "height": 950
+            }]
+        },
+        "name": "Background Image",
+        "type": "asset",
+        "value": [{
+            "contract": {
+                "name": "2020-smart-city-background_1903x950.jpg",
+                "description": null,
+                "type": "image/jpeg",
+                "size": 113056,
+                "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/5176fd57-56c2-42cd-b57e-c4fe8c63d582/2020-smart-city-background_1903x950.jpg",
+                "width": 1903,
+                "height": 950
+            },
+            "name": "2020-smart-city-background_1903x950.jpg",
+            "type": "image/jpeg",
+            "size": 113056,
+            "description": null,
+            "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/5176fd57-56c2-42cd-b57e-c4fe8c63d582/2020-smart-city-background_1903x950.jpg",
+            "width": 1903,
+            "height": 950
+        }]
+    },
+    "heroText": {
+        "rawData": {
+            "type": "text",
+            "name": "Hero Text",
+            "value": "Experience the technologies, solutions, players and audiences in the smart city sector — all in one place. See how industries are working with IoT, 5G connectivity, AI and more to power smart cities across the world."
+        },
+        "name": "Hero Text",
+        "type": "text",
+        "value": "Experience the technologies, solutions, players and audiences in the smart city sector — all in one place. See how industries are working with IoT, 5G connectivity, AI and more to power smart cities across the world."
+    },
+    "keyLocations": {
+        "rawData": {
+            "type": "modular_content",
+            "name": "Key Locations",
+            "value": ["untitled_content_item"]
+        },
+        "name": "Key Locations",
+        "type": "modular_content",
+        "itemCodenames": ["untitled_content_item"],
+        "value": [{
+            "_config": {},
+            "system": {
+                "name": "Smart Cities",
+                "codename": "untitled_content_item",
+                "id": "98f62b6b-b7a1-4ac6-9401-79fce0c00a50",
+                "lastModified": "2020-02-06T21:26:49.035Z",
+                "language": "default",
+                "type": "key_location",
+                "sitemapLocations": []
+            },
+            "_raw": {
+                "system": {
+                    "id": "98f62b6b-b7a1-4ac6-9401-79fce0c00a50",
+                    "name": "Smart Cities",
+                    "codename": "untitled_content_item",
+                    "language": "default",
+                    "type": "key_location",
+                    "sitemap_locations": [],
+                    "last_modified": "2020-02-06T21:26:49.0356058Z"
+                },
+                "elements": {
+                    "title": {
+                        "type": "text",
+                        "name": "Title",
+                        "value": "Smart Cities"
+                    },
+                    "description": {
+                        "type": "text",
+                        "name": "Description",
+                        "value": "CES Smart Cities represents the entire connected ecosystem that brings together the technologies, solutions, players and audiences in the smart city sector, including IoT, 5G connectivity, transportation and smart automotive, energy and utilities, health and public safety, artificial intelligence, and data analytics. If you're a key decision maker, influencer, buyer or investor in the smart city arena, see how smart cities will influence policies, transportation, cities and towns, our industry and our plan"
+                    },
+                    "location": {
+                        "type": "text",
+                        "name": "Location",
+                        "value": "Westgate"
+                    },
+                    "location_link": {
+                        "type": "text",
+                        "name": "Location Link",
+                        "value": "https://ces20.mapyourshow.com/8_0/floorplan/?st=category&hallID=OO"
+                    },
+                    "distance_1__title": {
+                        "type": "text",
+                        "name": "Distance 1: Title",
+                        "value": "ARIA"
+                    },
+                    "distance_1__miles": {
+                        "type": "text",
+                        "name": "Distance 1: Miles",
+                        "value": "2.8"
+                    },
+                    "distance_2__title": {
+                        "type": "text",
+                        "name": "Distance 2: Title",
+                        "value": "Sands Expo"
+                    },
+                    "distance_2__miles": {
+                        "type": "text",
+                        "name": "Distance 2: Miles",
+                        "value": "1.4"
+                    },
+                    "distance_3__title": {
+                        "type": "text",
+                        "name": "Distance 3: Title",
+                        "value": "Mandalay Bay"
+                    },
+                    "distance_3__miles": {
+                        "type": "text",
+                        "name": "Distance 3: Miles",
+                        "value": "6.1"
+                    }
+                }
+            },
+            "title": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Title",
+                    "value": "Smart Cities"
+                },
+                "name": "Title",
+                "type": "text",
+                "value": "Smart Cities"
+            },
+            "description": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Description",
+                    "value": "CES Smart Cities represents the entire connected ecosystem that brings together the technologies, solutions, players and audiences in the smart city sector, including IoT, 5G connectivity, transportation and smart automotive, energy and utilities, health and public safety, artificial intelligence, and data analytics. If you're a key decision maker, influencer, buyer or investor in the smart city arena, see how smart cities will influence policies, transportation, cities and towns, our industry and our plan"
+                },
+                "name": "Description",
+                "type": "text",
+                "value": "CES Smart Cities represents the entire connected ecosystem that brings together the technologies, solutions, players and audiences in the smart city sector, including IoT, 5G connectivity, transportation and smart automotive, energy and utilities, health and public safety, artificial intelligence, and data analytics. If you're a key decision maker, influencer, buyer or investor in the smart city arena, see how smart cities will influence policies, transportation, cities and towns, our industry and our plan"
+            },
+            "location": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Location",
+                    "value": "Westgate"
+                },
+                "name": "Location",
+                "type": "text",
+                "value": "Westgate"
+            },
+            "locationLink": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Location Link",
+                    "value": "https://ces20.mapyourshow.com/8_0/floorplan/?st=category&hallID=OO"
+                },
+                "name": "Location Link",
+                "type": "text",
+                "value": "https://ces20.mapyourshow.com/8_0/floorplan/?st=category&hallID=OO"
+            },
+            "distance_1__title": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Distance 1: Title",
+                    "value": "ARIA"
+                },
+                "name": "Distance 1: Title",
+                "type": "text",
+                "value": "ARIA"
+            },
+            "distance_1__miles": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Distance 1: Miles",
+                    "value": "2.8"
+                },
+                "name": "Distance 1: Miles",
+                "type": "text",
+                "value": "2.8"
+            },
+            "distance_2__title": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Distance 2: Title",
+                    "value": "Sands Expo"
+                },
+                "name": "Distance 2: Title",
+                "type": "text",
+                "value": "Sands Expo"
+            },
+            "distance_2__miles": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Distance 2: Miles",
+                    "value": "1.4"
+                },
+                "name": "Distance 2: Miles",
+                "type": "text",
+                "value": "1.4"
+            },
+            "distance_3__title": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Distance 3: Title",
+                    "value": "Mandalay Bay"
+                },
+                "name": "Distance 3: Title",
+                "type": "text",
+                "value": "Mandalay Bay"
+            },
+            "distance_3__miles": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Distance 3: Miles",
+                    "value": "6.1"
+                },
+                "name": "Distance 3: Miles",
+                "type": "text",
+                "value": "6.1"
+            }
+        }]
+    },
+    "schedule_and_exhibitor_items": {
+        "rawData": {
+            "type": "rich_text",
+            "name": "Schedule and Exhibitor Items",
+            "images": {},
+            "links": {},
+            "modular_content": ["n07a05e8b_93d1_016c_28c1_933d7f252a53", "n007a65e9_fd8b_01d3_1769_2a5012ffb4ae", "n401ac8f8_67ba_01f8_65a1_ac903427fe97", "n035d0fc7_7531_013c_9345_efd4e021b543", "bc86da28_d8bb_018f_9488_0808f07746aa", "n330eb5e2_a18f_0186_4782_21c5826a456e", "n71a347ae_306c_01ec_4ffd_8f68905ec4e9", "n4efc40da_97c3_01cd_63cc_04bcc28474e2"],
+            "value": "<object type=\"application/kenticocloud\" data-type=\"item\" data-rel=\"component\" data-codename=\"n07a05e8b_93d1_016c_28c1_933d7f252a53\"></object>\n<object type=\"application/kenticocloud\" data-type=\"item\" data-rel=\"component\" data-codename=\"n007a65e9_fd8b_01d3_1769_2a5012ffb4ae\"></object>\n<object type=\"application/kenticocloud\" data-type=\"item\" data-rel=\"component\" data-codename=\"n401ac8f8_67ba_01f8_65a1_ac903427fe97\"></object>\n<object type=\"application/kenticocloud\" data-type=\"item\" data-rel=\"component\" data-codename=\"n035d0fc7_7531_013c_9345_efd4e021b543\"></object>\n<object type=\"application/kenticocloud\" data-type=\"item\" data-rel=\"component\" data-codename=\"bc86da28_d8bb_018f_9488_0808f07746aa\"></object>\n<object type=\"application/kenticocloud\" data-type=\"item\" data-rel=\"component\" data-codename=\"n330eb5e2_a18f_0186_4782_21c5826a456e\"></object>\n<object type=\"application/kenticocloud\" data-type=\"item\" data-rel=\"component\" data-codename=\"n71a347ae_306c_01ec_4ffd_8f68905ec4e9\"></object>\n<object type=\"application/kenticocloud\" data-type=\"item\" data-rel=\"component\" data-codename=\"n4efc40da_97c3_01cd_63cc_04bcc28474e2\"></object>"
+        },
+        "name": "Schedule and Exhibitor Items",
+        "type": "rich_text",
+        "linkedItemCodenames": ["n07a05e8b_93d1_016c_28c1_933d7f252a53", "n007a65e9_fd8b_01d3_1769_2a5012ffb4ae", "n401ac8f8_67ba_01f8_65a1_ac903427fe97", "n035d0fc7_7531_013c_9345_efd4e021b543", "bc86da28_d8bb_018f_9488_0808f07746aa", "n330eb5e2_a18f_0186_4782_21c5826a456e", "n71a347ae_306c_01ec_4ffd_8f68905ec4e9", "n4efc40da_97c3_01cd_63cc_04bcc28474e2"],
+        "links": [],
+        "images": [],
+        "value": "<object type=\"application/kenticocloud\" data-type=\"item\" data-rel=\"component\" data-codename=\"n07a05e8b_93d1_016c_28c1_933d7f252a53\"></object>\n<object type=\"application/kenticocloud\" data-type=\"item\" data-rel=\"component\" data-codename=\"n007a65e9_fd8b_01d3_1769_2a5012ffb4ae\"></object>\n<object type=\"application/kenticocloud\" data-type=\"item\" data-rel=\"component\" data-codename=\"n401ac8f8_67ba_01f8_65a1_ac903427fe97\"></object>\n<object type=\"application/kenticocloud\" data-type=\"item\" data-rel=\"component\" data-codename=\"n035d0fc7_7531_013c_9345_efd4e021b543\"></object>\n<object type=\"application/kenticocloud\" data-type=\"item\" data-rel=\"component\" data-codename=\"bc86da28_d8bb_018f_9488_0808f07746aa\"></object>\n<object type=\"application/kenticocloud\" data-type=\"item\" data-rel=\"component\" data-codename=\"n330eb5e2_a18f_0186_4782_21c5826a456e\"></object>\n<object type=\"application/kenticocloud\" data-type=\"item\" data-rel=\"component\" data-codename=\"n71a347ae_306c_01ec_4ffd_8f68905ec4e9\"></object>\n<object type=\"application/kenticocloud\" data-type=\"item\" data-rel=\"component\" data-codename=\"n4efc40da_97c3_01cd_63cc_04bcc28474e2\"></object>"
+    },
+    "featured_section_content": {
+        "rawData": {
+            "type": "modular_content",
+            "name": "Featured Section Content",
+            "value": ["the_reality_of_smart_city_development"]
+        },
+        "name": "Featured Section Content",
+        "type": "modular_content",
+        "itemCodenames": ["the_reality_of_smart_city_development"],
+        "value": [{
+            "_config": {},
+            "system": {
+                "name": "The Reality of Smart City Development",
+                "codename": "the_reality_of_smart_city_development",
+                "id": "fc130b83-b61a-4eb1-84fd-e387f3b816e6",
+                "lastModified": "2020-02-03T21:37:05.879Z",
+                "language": "default",
+                "type": "video",
+                "sitemapLocations": []
+            },
+            "_raw": {
+                "system": {
+                    "id": "fc130b83-b61a-4eb1-84fd-e387f3b816e6",
+                    "name": "The Reality of Smart City Development",
+                    "codename": "the_reality_of_smart_city_development",
+                    "language": "default",
+                    "type": "video",
+                    "sitemap_locations": [],
+                    "last_modified": "2020-02-03T21:37:05.8790087Z"
+                },
+                "elements": {
+                    "title": {
+                        "type": "text",
+                        "name": "Title",
+                        "value": "The Reality of Smart City Development"
+                    },
+                    "summary": {
+                        "type": "text",
+                        "name": "Summary",
+                        "value": "The smart city market is expected to grow to over $158 billion in 2022. Coming advancements are expected to make everyday life more efficient through traffic patterns and air quality, emergency preparedness, wayfinding and optimal energy consumption."
+                    },
+                    "video_html": {
+                        "type": "text",
+                        "name": "Video HTML",
+                        "value": "<div style=\"position: relative; display: block; max-width: 600px;\"><div style=\"padding-top: 56.25%;\"><iframe src=\"https://players.brightcove.net/5629323166001/rkJgDVPyG_default/index.html?videoId=6120796819001\" allowfullscreen=\"\" allow=\"encrypted-media\" style=\"position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;\"></iframe></div></div>"
+                    },
+                    "date": {
+                        "type": "date_time",
+                        "name": "Date",
+                        "value": "2020-01-08T00:00:00Z"
+                    },
+                    "speakers": {
+                        "type": "modular_content",
+                        "name": "Speakers",
+                        "value": ["tom_pey", "omar_khan", "laura_schewel", "damon_embling", "park_won_soon"]
+                    },
+                    "url": {
+                        "type": "url_slug",
+                        "name": "URL",
+                        "value": "the-reality-of-smart-city-development"
+                    },
+                    "topics_image": {
+                        "type": "asset",
+                        "name": "Topics Image",
+                        "value": [{
+                            "name": "reality-smart-city-development_video-still_770x616.jpg",
+                            "description": null,
+                            "type": "image/jpeg",
+                            "size": 71044,
+                            "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/7bdc33e1-2bc3-48f5-9551-e5e8e5524db4/reality-smart-city-development_video-still_770x616.jpg",
+                            "width": 770,
+                            "height": 616
+                        }]
+                    }
+                }
+            },
+            "title": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Title",
+                    "value": "The Reality of Smart City Development"
+                },
+                "name": "Title",
+                "type": "text",
+                "value": "The Reality of Smart City Development"
+            },
+            "summary": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Summary",
+                    "value": "The smart city market is expected to grow to over $158 billion in 2022. Coming advancements are expected to make everyday life more efficient through traffic patterns and air quality, emergency preparedness, wayfinding and optimal energy consumption."
+                },
+                "name": "Summary",
+                "type": "text",
+                "value": "The smart city market is expected to grow to over $158 billion in 2022. Coming advancements are expected to make everyday life more efficient through traffic patterns and air quality, emergency preparedness, wayfinding and optimal energy consumption."
+            },
+            "videoHtml": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Video HTML",
+                    "value": "<div style=\"position: relative; display: block; max-width: 600px;\"><div style=\"padding-top: 56.25%;\"><iframe src=\"https://players.brightcove.net/5629323166001/rkJgDVPyG_default/index.html?videoId=6120796819001\" allowfullscreen=\"\" allow=\"encrypted-media\" style=\"position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;\"></iframe></div></div>"
+                },
+                "name": "Video HTML",
+                "type": "text",
+                "value": "<div style=\"position: relative; display: block; max-width: 600px;\"><div style=\"padding-top: 56.25%;\"><iframe src=\"https://players.brightcove.net/5629323166001/rkJgDVPyG_default/index.html?videoId=6120796819001\" allowfullscreen=\"\" allow=\"encrypted-media\" style=\"position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;\"></iframe></div></div>"
+            },
+            "date": {
+                "rawData": {
+                    "type": "date_time",
+                    "name": "Date",
+                    "value": "2020-01-08T00:00:00Z"
+                },
+                "name": "Date",
+                "type": "date_time",
+                "value": "2020-01-08T00:00:00.000Z"
+            },
+            "speakers": {
+                "rawData": {
+                    "type": "modular_content",
+                    "name": "Speakers",
+                    "value": ["tom_pey", "omar_khan", "laura_schewel", "damon_embling", "park_won_soon"]
+                },
+                "name": "Speakers",
+                "type": "modular_content",
+                "itemCodenames": ["tom_pey", "omar_khan", "laura_schewel", "damon_embling", "park_won_soon"],
+                "value": [{
+                    "system": {
+                        "name": "Tom Pey",
+                        "codename": "tom_pey",
+                        "id": "f14964b7-6975-457f-81f0-e471ac093977",
+                        "lastModified": "2020-02-03T21:05:27.646Z",
+                        "language": "default",
+                        "type": "speaker",
+                        "sitemapLocations": []
+                    },
+                    "_raw": {
+                        "system": {
+                            "id": "f14964b7-6975-457f-81f0-e471ac093977",
+                            "name": "Tom Pey",
+                            "codename": "tom_pey",
+                            "language": "default",
+                            "type": "speaker",
+                            "sitemap_locations": [],
+                            "last_modified": "2020-02-03T21:05:27.64624Z"
+                        },
+                        "elements": {
+                            "name": {
+                                "type": "text",
+                                "name": "Name",
+                                "value": "Tom Pey"
+                            },
+                            "headshot": {
+                                "type": "asset",
+                                "name": "Headshot",
+                                "value": [{
+                                    "name": "tom-pey.jpg",
+                                    "description": null,
+                                    "type": "image/jpeg",
+                                    "size": 5493,
+                                    "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/c4cc5176-c97a-449f-8be1-99f0b46263e8/tom-pey.jpg",
+                                    "width": 200,
+                                    "height": 200
+                                }]
+                            },
+                            "title": {
+                                "type": "text",
+                                "name": "Title",
+                                "value": "CEO, Wayfindr/Waymap"
+                            },
+                            "bio": {
+                                "type": "text",
+                                "name": "Bio",
+                                "value": "Having lost his sight at the age of 39, Tom moved from a career in international banking to the charity sector. Over the next 20 years Tom earned a reputation for being a person who uses his considerable energy to campaign for improvements to the lives of the blindness community. As Group CEO of the Royal Society for Blind Children, Tom transformed the charity from being a local organisation providing education to 150 blind children, to being a national charity that supported over 4,000 vision impaired young people and their families across the UK.\n\nTom was the founding Chairman of Wayfindr.org. With the support of Google.org, ustwo, Transport for London and working with blind people across the world Wayfindr led the development of the UN’s worldwide standard for audio-based navigation (ITU: F921). Working with colleagues in the USA and the CTA, Tom supported the development of the US standard (CTA 2076). Tom is a co-founder of Waymap, an award-winning technology company that delivers a highly accurate, CTA standard compliant indoor wayfinding and navigation solution for disabled and other users via their smart phones. In 2019 Tom, alongside Zach Bastian from Verizon, received the CTA Award for Technology and Standards."
+                            }
+                        }
+                    },
+                    "name": {
+                        "rawData": {
+                            "type": "text",
+                            "name": "Name",
+                            "value": "Tom Pey"
+                        },
+                        "name": "Name",
+                        "type": "text",
+                        "value": "Tom Pey"
+                    },
+                    "headshot": {
+                        "rawData": {
+                            "type": "asset",
+                            "name": "Headshot",
+                            "value": [{
+                                "name": "tom-pey.jpg",
+                                "description": null,
+                                "type": "image/jpeg",
+                                "size": 5493,
+                                "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/c4cc5176-c97a-449f-8be1-99f0b46263e8/tom-pey.jpg",
+                                "width": 200,
+                                "height": 200
+                            }]
+                        },
+                        "name": "Headshot",
+                        "type": "asset",
+                        "value": [{
+                            "contract": {
+                                "name": "tom-pey.jpg",
+                                "description": null,
+                                "type": "image/jpeg",
+                                "size": 5493,
+                                "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/c4cc5176-c97a-449f-8be1-99f0b46263e8/tom-pey.jpg",
+                                "width": 200,
+                                "height": 200
+                            },
+                            "name": "tom-pey.jpg",
+                            "type": "image/jpeg",
+                            "size": 5493,
+                            "description": null,
+                            "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/c4cc5176-c97a-449f-8be1-99f0b46263e8/tom-pey.jpg",
+                            "width": 200,
+                            "height": 200
+                        }]
+                    },
+                    "title": {
+                        "rawData": {
+                            "type": "text",
+                            "name": "Title",
+                            "value": "CEO, Wayfindr/Waymap"
+                        },
+                        "name": "Title",
+                        "type": "text",
+                        "value": "CEO, Wayfindr/Waymap"
+                    },
+                    "bio": {
+                        "rawData": {
+                            "type": "text",
+                            "name": "Bio",
+                            "value": "Having lost his sight at the age of 39, Tom moved from a career in international banking to the charity sector. Over the next 20 years Tom earned a reputation for being a person who uses his considerable energy to campaign for improvements to the lives of the blindness community. As Group CEO of the Royal Society for Blind Children, Tom transformed the charity from being a local organisation providing education to 150 blind children, to being a national charity that supported over 4,000 vision impaired young people and their families across the UK.\n\nTom was the founding Chairman of Wayfindr.org. With the support of Google.org, ustwo, Transport for London and working with blind people across the world Wayfindr led the development of the UN’s worldwide standard for audio-based navigation (ITU: F921). Working with colleagues in the USA and the CTA, Tom supported the development of the US standard (CTA 2076). Tom is a co-founder of Waymap, an award-winning technology company that delivers a highly accurate, CTA standard compliant indoor wayfinding and navigation solution for disabled and other users via their smart phones. In 2019 Tom, alongside Zach Bastian from Verizon, received the CTA Award for Technology and Standards."
+                        },
+                        "name": "Bio",
+                        "type": "text",
+                        "value": "Having lost his sight at the age of 39, Tom moved from a career in international banking to the charity sector. Over the next 20 years Tom earned a reputation for being a person who uses his considerable energy to campaign for improvements to the lives of the blindness community. As Group CEO of the Royal Society for Blind Children, Tom transformed the charity from being a local organisation providing education to 150 blind children, to being a national charity that supported over 4,000 vision impaired young people and their families across the UK.\n\nTom was the founding Chairman of Wayfindr.org. With the support of Google.org, ustwo, Transport for London and working with blind people across the world Wayfindr led the development of the UN’s worldwide standard for audio-based navigation (ITU: F921). Working with colleagues in the USA and the CTA, Tom supported the development of the US standard (CTA 2076). Tom is a co-founder of Waymap, an award-winning technology company that delivers a highly accurate, CTA standard compliant indoor wayfinding and navigation solution for disabled and other users via their smart phones. In 2019 Tom, alongside Zach Bastian from Verizon, received the CTA Award for Technology and Standards."
+                    }
+                }, {
+                    "system": {
+                        "name": "Omar Khan",
+                        "codename": "omar_khan",
+                        "id": "52a13afc-fea8-4d1d-ac99-ff30016ec99a",
+                        "lastModified": "2020-02-03T21:06:27.846Z",
+                        "language": "default",
+                        "type": "speaker",
+                        "sitemapLocations": []
+                    },
+                    "_raw": {
+                        "system": {
+                            "id": "52a13afc-fea8-4d1d-ac99-ff30016ec99a",
+                            "name": "Omar Khan",
+                            "codename": "omar_khan",
+                            "language": "default",
+                            "type": "speaker",
+                            "sitemap_locations": [],
+                            "last_modified": "2020-02-03T21:06:27.8466222Z"
+                        },
+                        "elements": {
+                            "name": {
+                                "type": "text",
+                                "name": "Name",
+                                "value": "Omar Khan"
+                            },
+                            "headshot": {
+                                "type": "asset",
+                                "name": "Headshot",
+                                "value": [{
+                                    "name": "omar-khan.jpg",
+                                    "description": null,
+                                    "type": "image/jpeg",
+                                    "size": 7663,
+                                    "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/ff88873c-3e45-40a5-93ee-e2602b89d98a/omar-khan.jpg",
+                                    "width": 200,
+                                    "height": 200
+                                }]
+                            },
+                            "title": {
+                                "type": "text",
+                                "name": "Title",
+                                "value": "Chief Product Officer, Magic Leap"
+                            },
+                            "bio": {
+                                "type": "text",
+                                "name": "Bio",
+                                "value": "Omar Khan, Chief Product Officer, Magic Leap Omar Khan is the Chief Product Officer at Magic Leap in charge of the company’s product, solutions, and service strategies. As part of Magic Leap’s leadership team, Omar is one of the creative minds that is helping make the Magicverse magical. Prior to joining Magic Leap, he was the President of Enseo, a privately-held firm focused on providing technology solutions for hospitality. Previously, Omar was President & COO of Round Room LLC, a privately-held holding company and served as co-CEO of NQ Mobile, a leader in mobile gaming. He was also managing director and global head of the Mobile Center of Excellence at Citigroup, and held several senior executive roles at Samsung Mobile, including its Chief Product and Technology Officer, where he helped to lead the company’s transition to the Android platform and the launch of its first two generations of Galaxy devices.\n\nOmar currently serves on the Board of Industry Leaders of the Consumer Technology Association and the advisory board of Enseo. He is an active member of the Young Presidents’ Organization (YPO) and currently serves on the executive board of YPO International’s Fine Dining Network. Omar graduated from Massachusetts Institute of Technology (MIT) with Bachelor’s and Master’s degrees in Electrical Engineering. He completed his graduate work in System Dynamics in conjunction with MIT’s Sloan School of Management."
+                            }
+                        }
+                    },
+                    "name": {
+                        "rawData": {
+                            "type": "text",
+                            "name": "Name",
+                            "value": "Omar Khan"
+                        },
+                        "name": "Name",
+                        "type": "text",
+                        "value": "Omar Khan"
+                    },
+                    "headshot": {
+                        "rawData": {
+                            "type": "asset",
+                            "name": "Headshot",
+                            "value": [{
+                                "name": "omar-khan.jpg",
+                                "description": null,
+                                "type": "image/jpeg",
+                                "size": 7663,
+                                "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/ff88873c-3e45-40a5-93ee-e2602b89d98a/omar-khan.jpg",
+                                "width": 200,
+                                "height": 200
+                            }]
+                        },
+                        "name": "Headshot",
+                        "type": "asset",
+                        "value": [{
+                            "contract": {
+                                "name": "omar-khan.jpg",
+                                "description": null,
+                                "type": "image/jpeg",
+                                "size": 7663,
+                                "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/ff88873c-3e45-40a5-93ee-e2602b89d98a/omar-khan.jpg",
+                                "width": 200,
+                                "height": 200
+                            },
+                            "name": "omar-khan.jpg",
+                            "type": "image/jpeg",
+                            "size": 7663,
+                            "description": null,
+                            "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/ff88873c-3e45-40a5-93ee-e2602b89d98a/omar-khan.jpg",
+                            "width": 200,
+                            "height": 200
+                        }]
+                    },
+                    "title": {
+                        "rawData": {
+                            "type": "text",
+                            "name": "Title",
+                            "value": "Chief Product Officer, Magic Leap"
+                        },
+                        "name": "Title",
+                        "type": "text",
+                        "value": "Chief Product Officer, Magic Leap"
+                    },
+                    "bio": {
+                        "rawData": {
+                            "type": "text",
+                            "name": "Bio",
+                            "value": "Omar Khan, Chief Product Officer, Magic Leap Omar Khan is the Chief Product Officer at Magic Leap in charge of the company’s product, solutions, and service strategies. As part of Magic Leap’s leadership team, Omar is one of the creative minds that is helping make the Magicverse magical. Prior to joining Magic Leap, he was the President of Enseo, a privately-held firm focused on providing technology solutions for hospitality. Previously, Omar was President & COO of Round Room LLC, a privately-held holding company and served as co-CEO of NQ Mobile, a leader in mobile gaming. He was also managing director and global head of the Mobile Center of Excellence at Citigroup, and held several senior executive roles at Samsung Mobile, including its Chief Product and Technology Officer, where he helped to lead the company’s transition to the Android platform and the launch of its first two generations of Galaxy devices.\n\nOmar currently serves on the Board of Industry Leaders of the Consumer Technology Association and the advisory board of Enseo. He is an active member of the Young Presidents’ Organization (YPO) and currently serves on the executive board of YPO International’s Fine Dining Network. Omar graduated from Massachusetts Institute of Technology (MIT) with Bachelor’s and Master’s degrees in Electrical Engineering. He completed his graduate work in System Dynamics in conjunction with MIT’s Sloan School of Management."
+                        },
+                        "name": "Bio",
+                        "type": "text",
+                        "value": "Omar Khan, Chief Product Officer, Magic Leap Omar Khan is the Chief Product Officer at Magic Leap in charge of the company’s product, solutions, and service strategies. As part of Magic Leap’s leadership team, Omar is one of the creative minds that is helping make the Magicverse magical. Prior to joining Magic Leap, he was the President of Enseo, a privately-held firm focused on providing technology solutions for hospitality. Previously, Omar was President & COO of Round Room LLC, a privately-held holding company and served as co-CEO of NQ Mobile, a leader in mobile gaming. He was also managing director and global head of the Mobile Center of Excellence at Citigroup, and held several senior executive roles at Samsung Mobile, including its Chief Product and Technology Officer, where he helped to lead the company’s transition to the Android platform and the launch of its first two generations of Galaxy devices.\n\nOmar currently serves on the Board of Industry Leaders of the Consumer Technology Association and the advisory board of Enseo. He is an active member of the Young Presidents’ Organization (YPO) and currently serves on the executive board of YPO International’s Fine Dining Network. Omar graduated from Massachusetts Institute of Technology (MIT) with Bachelor’s and Master’s degrees in Electrical Engineering. He completed his graduate work in System Dynamics in conjunction with MIT’s Sloan School of Management."
+                    }
+                }, {
+                    "system": {
+                        "name": "Laura Schewel",
+                        "codename": "laura_schewel",
+                        "id": "fed29995-3de9-483f-8b1e-12f7dfe69295",
+                        "lastModified": "2020-02-03T21:07:19.459Z",
+                        "language": "default",
+                        "type": "speaker",
+                        "sitemapLocations": []
+                    },
+                    "_raw": {
+                        "system": {
+                            "id": "fed29995-3de9-483f-8b1e-12f7dfe69295",
+                            "name": "Laura Schewel",
+                            "codename": "laura_schewel",
+                            "language": "default",
+                            "type": "speaker",
+                            "sitemap_locations": [],
+                            "last_modified": "2020-02-03T21:07:19.4592782Z"
+                        },
+                        "elements": {
+                            "name": {
+                                "type": "text",
+                                "name": "Name",
+                                "value": "Laura Schewel"
+                            },
+                            "headshot": {
+                                "type": "asset",
+                                "name": "Headshot",
+                                "value": [{
+                                    "name": "laura-schewel_1.jpg",
+                                    "description": null,
+                                    "type": "image/jpeg",
+                                    "size": 5662,
+                                    "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/47f9b7b1-5803-441d-9881-3062a74ea29f/laura-schewel_1.jpg",
+                                    "width": 200,
+                                    "height": 200
+                                }]
+                            },
+                            "title": {
+                                "type": "text",
+                                "name": "Title",
+                                "value": "Co-founder & CEO, StreetLight Data"
+                            },
+                            "bio": {
+                                "type": "text",
+                                "name": "Bio",
+                                "value": "Laura Schewel is co-founder and CEO of StreetLight Data, the leader in Big Data analytics for mobility. As CEO of StreetLight she has helped hundreds of transportation agencies, engineering firms, and private transportation companies put big data to work. Prior to founding StreetLight, Laura worked at the Federal Energy Regulatory Commission and Rocky Mountain Institute on vehicle electrification and other transportation sustainability topics."
+                            }
+                        }
+                    },
+                    "name": {
+                        "rawData": {
+                            "type": "text",
+                            "name": "Name",
+                            "value": "Laura Schewel"
+                        },
+                        "name": "Name",
+                        "type": "text",
+                        "value": "Laura Schewel"
+                    },
+                    "headshot": {
+                        "rawData": {
+                            "type": "asset",
+                            "name": "Headshot",
+                            "value": [{
+                                "name": "laura-schewel_1.jpg",
+                                "description": null,
+                                "type": "image/jpeg",
+                                "size": 5662,
+                                "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/47f9b7b1-5803-441d-9881-3062a74ea29f/laura-schewel_1.jpg",
+                                "width": 200,
+                                "height": 200
+                            }]
+                        },
+                        "name": "Headshot",
+                        "type": "asset",
+                        "value": [{
+                            "contract": {
+                                "name": "laura-schewel_1.jpg",
+                                "description": null,
+                                "type": "image/jpeg",
+                                "size": 5662,
+                                "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/47f9b7b1-5803-441d-9881-3062a74ea29f/laura-schewel_1.jpg",
+                                "width": 200,
+                                "height": 200
+                            },
+                            "name": "laura-schewel_1.jpg",
+                            "type": "image/jpeg",
+                            "size": 5662,
+                            "description": null,
+                            "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/47f9b7b1-5803-441d-9881-3062a74ea29f/laura-schewel_1.jpg",
+                            "width": 200,
+                            "height": 200
+                        }]
+                    },
+                    "title": {
+                        "rawData": {
+                            "type": "text",
+                            "name": "Title",
+                            "value": "Co-founder & CEO, StreetLight Data"
+                        },
+                        "name": "Title",
+                        "type": "text",
+                        "value": "Co-founder & CEO, StreetLight Data"
+                    },
+                    "bio": {
+                        "rawData": {
+                            "type": "text",
+                            "name": "Bio",
+                            "value": "Laura Schewel is co-founder and CEO of StreetLight Data, the leader in Big Data analytics for mobility. As CEO of StreetLight she has helped hundreds of transportation agencies, engineering firms, and private transportation companies put big data to work. Prior to founding StreetLight, Laura worked at the Federal Energy Regulatory Commission and Rocky Mountain Institute on vehicle electrification and other transportation sustainability topics."
+                        },
+                        "name": "Bio",
+                        "type": "text",
+                        "value": "Laura Schewel is co-founder and CEO of StreetLight Data, the leader in Big Data analytics for mobility. As CEO of StreetLight she has helped hundreds of transportation agencies, engineering firms, and private transportation companies put big data to work. Prior to founding StreetLight, Laura worked at the Federal Energy Regulatory Commission and Rocky Mountain Institute on vehicle electrification and other transportation sustainability topics."
+                    }
+                }, {
+                    "system": {
+                        "name": "Damon Embling",
+                        "codename": "damon_embling",
+                        "id": "2e7c391a-2af9-4b65-bd65-0765de592091",
+                        "lastModified": "2020-02-03T21:08:24.333Z",
+                        "language": "default",
+                        "type": "speaker",
+                        "sitemapLocations": []
+                    },
+                    "_raw": {
+                        "system": {
+                            "id": "2e7c391a-2af9-4b65-bd65-0765de592091",
+                            "name": "Damon Embling",
+                            "codename": "damon_embling",
+                            "language": "default",
+                            "type": "speaker",
+                            "sitemap_locations": [],
+                            "last_modified": "2020-02-03T21:08:24.3335348Z"
+                        },
+                        "elements": {
+                            "name": {
+                                "type": "text",
+                                "name": "Name",
+                                "value": "Damon Embling"
+                            },
+                            "headshot": {
+                                "type": "asset",
+                                "name": "Headshot",
+                                "value": [{
+                                    "name": "damon-embling.jpg",
+                                    "description": null,
+                                    "type": "image/jpeg",
+                                    "size": 5137,
+                                    "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/db6608e4-eeac-4517-9157-454766b4ed47/damon-embling.jpg",
+                                    "width": 200,
+                                    "height": 200
+                                }]
+                            },
+                            "title": {
+                                "type": "text",
+                                "name": "Title",
+                                "value": "Correspondent & Presenter, Euronews"
+                            },
+                            "bio": {
+                                "type": "text",
+                                "name": "Bio",
+                                "value": "Damon is a seasoned television correspondent and presenter, currently working for the international TV channel Euronews. He specialises in EU and World Affairs, Technology, Lifestyle and Travel - working across news and programmes."
+                            }
+                        }
+                    },
+                    "name": {
+                        "rawData": {
+                            "type": "text",
+                            "name": "Name",
+                            "value": "Damon Embling"
+                        },
+                        "name": "Name",
+                        "type": "text",
+                        "value": "Damon Embling"
+                    },
+                    "headshot": {
+                        "rawData": {
+                            "type": "asset",
+                            "name": "Headshot",
+                            "value": [{
+                                "name": "damon-embling.jpg",
+                                "description": null,
+                                "type": "image/jpeg",
+                                "size": 5137,
+                                "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/db6608e4-eeac-4517-9157-454766b4ed47/damon-embling.jpg",
+                                "width": 200,
+                                "height": 200
+                            }]
+                        },
+                        "name": "Headshot",
+                        "type": "asset",
+                        "value": [{
+                            "contract": {
+                                "name": "damon-embling.jpg",
+                                "description": null,
+                                "type": "image/jpeg",
+                                "size": 5137,
+                                "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/db6608e4-eeac-4517-9157-454766b4ed47/damon-embling.jpg",
+                                "width": 200,
+                                "height": 200
+                            },
+                            "name": "damon-embling.jpg",
+                            "type": "image/jpeg",
+                            "size": 5137,
+                            "description": null,
+                            "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/db6608e4-eeac-4517-9157-454766b4ed47/damon-embling.jpg",
+                            "width": 200,
+                            "height": 200
+                        }]
+                    },
+                    "title": {
+                        "rawData": {
+                            "type": "text",
+                            "name": "Title",
+                            "value": "Correspondent & Presenter, Euronews"
+                        },
+                        "name": "Title",
+                        "type": "text",
+                        "value": "Correspondent & Presenter, Euronews"
+                    },
+                    "bio": {
+                        "rawData": {
+                            "type": "text",
+                            "name": "Bio",
+                            "value": "Damon is a seasoned television correspondent and presenter, currently working for the international TV channel Euronews. He specialises in EU and World Affairs, Technology, Lifestyle and Travel - working across news and programmes."
+                        },
+                        "name": "Bio",
+                        "type": "text",
+                        "value": "Damon is a seasoned television correspondent and presenter, currently working for the international TV channel Euronews. He specialises in EU and World Affairs, Technology, Lifestyle and Travel - working across news and programmes."
+                    }
+                }, {
+                    "system": {
+                        "name": "Park Won-soon",
+                        "codename": "park_won_soon",
+                        "id": "36ee7211-df21-47ca-8c21-d9f75fcda4a6",
+                        "lastModified": "2020-02-03T21:09:16.822Z",
+                        "language": "default",
+                        "type": "speaker",
+                        "sitemapLocations": []
+                    },
+                    "_raw": {
+                        "system": {
+                            "id": "36ee7211-df21-47ca-8c21-d9f75fcda4a6",
+                            "name": "Park Won-soon",
+                            "codename": "park_won_soon",
+                            "language": "default",
+                            "type": "speaker",
+                            "sitemap_locations": [],
+                            "last_modified": "2020-02-03T21:09:16.8226194Z"
+                        },
+                        "elements": {
+                            "name": {
+                                "type": "text",
+                                "name": "Name",
+                                "value": "Park Won-soon"
+                            },
+                            "headshot": {
+                                "type": "asset",
+                                "name": "Headshot",
+                                "value": [{
+                                    "name": "park-won-soon.jpg",
+                                    "description": null,
+                                    "type": "image/jpeg",
+                                    "size": 5151,
+                                    "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/dbc91705-5d96-48de-aaa6-5ec38f6f60d9/park-won-soon.jpg",
+                                    "width": 200,
+                                    "height": 200
+                                }]
+                            },
+                            "title": {
+                                "type": "text",
+                                "name": "Title",
+                                "value": "Mayor of Seoul, Seoul Metropolitan Government"
+                            },
+                            "bio": {
+                                "type": "text",
+                                "name": "Bio",
+                                "value": "Referred to by many people as a “social designer,” Won-soon Park dedicated his career to bringing about fresh change to old norms. Park worked as a human rights lawyer and defended many political activists in the 1980s and 1990s. In the 1990s and 2000s, Park as a civic activist founded several civic organizations formed with the purpose of promoting participatory democracy and securing human rights, a foundation with the aim of promoting a culture of philanthropy, and a think-tank with the goal of applying policy alternatives based on the ideas of ordinary citizens. Since his first election in October 2011, Park has now served his third term as the longest-serving Mayor of Seoul. He set forth the slogan “the citizens are the mayor” and pursued collaborative governance with the citizens in the policy decision making process. Park as a mayor realized the importance of going beyond national borders and strengthening city-to-city cooperation when tackling the many common challenges that the world faces. So he assumed many leadership responsibilities in various organizations, such as WeGO, an organization to promote e-governance and smart cities, GSEF, an organization to find solutions to social problems through social economy, ICLEI, C40, and more."
+                            }
+                        }
+                    },
+                    "name": {
+                        "rawData": {
+                            "type": "text",
+                            "name": "Name",
+                            "value": "Park Won-soon"
+                        },
+                        "name": "Name",
+                        "type": "text",
+                        "value": "Park Won-soon"
+                    },
+                    "headshot": {
+                        "rawData": {
+                            "type": "asset",
+                            "name": "Headshot",
+                            "value": [{
+                                "name": "park-won-soon.jpg",
+                                "description": null,
+                                "type": "image/jpeg",
+                                "size": 5151,
+                                "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/dbc91705-5d96-48de-aaa6-5ec38f6f60d9/park-won-soon.jpg",
+                                "width": 200,
+                                "height": 200
+                            }]
+                        },
+                        "name": "Headshot",
+                        "type": "asset",
+                        "value": [{
+                            "contract": {
+                                "name": "park-won-soon.jpg",
+                                "description": null,
+                                "type": "image/jpeg",
+                                "size": 5151,
+                                "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/dbc91705-5d96-48de-aaa6-5ec38f6f60d9/park-won-soon.jpg",
+                                "width": 200,
+                                "height": 200
+                            },
+                            "name": "park-won-soon.jpg",
+                            "type": "image/jpeg",
+                            "size": 5151,
+                            "description": null,
+                            "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/dbc91705-5d96-48de-aaa6-5ec38f6f60d9/park-won-soon.jpg",
+                            "width": 200,
+                            "height": 200
+                        }]
+                    },
+                    "title": {
+                        "rawData": {
+                            "type": "text",
+                            "name": "Title",
+                            "value": "Mayor of Seoul, Seoul Metropolitan Government"
+                        },
+                        "name": "Title",
+                        "type": "text",
+                        "value": "Mayor of Seoul, Seoul Metropolitan Government"
+                    },
+                    "bio": {
+                        "rawData": {
+                            "type": "text",
+                            "name": "Bio",
+                            "value": "Referred to by many people as a “social designer,” Won-soon Park dedicated his career to bringing about fresh change to old norms. Park worked as a human rights lawyer and defended many political activists in the 1980s and 1990s. In the 1990s and 2000s, Park as a civic activist founded several civic organizations formed with the purpose of promoting participatory democracy and securing human rights, a foundation with the aim of promoting a culture of philanthropy, and a think-tank with the goal of applying policy alternatives based on the ideas of ordinary citizens. Since his first election in October 2011, Park has now served his third term as the longest-serving Mayor of Seoul. He set forth the slogan “the citizens are the mayor” and pursued collaborative governance with the citizens in the policy decision making process. Park as a mayor realized the importance of going beyond national borders and strengthening city-to-city cooperation when tackling the many common challenges that the world faces. So he assumed many leadership responsibilities in various organizations, such as WeGO, an organization to promote e-governance and smart cities, GSEF, an organization to find solutions to social problems through social economy, ICLEI, C40, and more."
+                        },
+                        "name": "Bio",
+                        "type": "text",
+                        "value": "Referred to by many people as a “social designer,” Won-soon Park dedicated his career to bringing about fresh change to old norms. Park worked as a human rights lawyer and defended many political activists in the 1980s and 1990s. In the 1990s and 2000s, Park as a civic activist founded several civic organizations formed with the purpose of promoting participatory democracy and securing human rights, a foundation with the aim of promoting a culture of philanthropy, and a think-tank with the goal of applying policy alternatives based on the ideas of ordinary citizens. Since his first election in October 2011, Park has now served his third term as the longest-serving Mayor of Seoul. He set forth the slogan “the citizens are the mayor” and pursued collaborative governance with the citizens in the policy decision making process. Park as a mayor realized the importance of going beyond national borders and strengthening city-to-city cooperation when tackling the many common challenges that the world faces. So he assumed many leadership responsibilities in various organizations, such as WeGO, an organization to promote e-governance and smart cities, GSEF, an organization to find solutions to social problems through social economy, ICLEI, C40, and more."
+                    }
+                }]
+            },
+            "url": {
+                "rawData": {
+                    "type": "url_slug",
+                    "name": "URL",
+                    "value": "the-reality-of-smart-city-development"
+                },
+                "name": "URL",
+                "type": "url_slug",
+                "value": "the-reality-of-smart-city-development"
+            },
+            "topicsImage": {
+                "rawData": {
+                    "type": "asset",
+                    "name": "Topics Image",
+                    "value": [{
+                        "name": "reality-smart-city-development_video-still_770x616.jpg",
+                        "description": null,
+                        "type": "image/jpeg",
+                        "size": 71044,
+                        "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/7bdc33e1-2bc3-48f5-9551-e5e8e5524db4/reality-smart-city-development_video-still_770x616.jpg",
+                        "width": 770,
+                        "height": 616
+                    }]
+                },
+                "name": "Topics Image",
+                "type": "asset",
+                "value": [{
+                    "contract": {
+                        "name": "reality-smart-city-development_video-still_770x616.jpg",
+                        "description": null,
+                        "type": "image/jpeg",
+                        "size": 71044,
+                        "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/7bdc33e1-2bc3-48f5-9551-e5e8e5524db4/reality-smart-city-development_video-still_770x616.jpg",
+                        "width": 770,
+                        "height": 616
+                    },
+                    "name": "reality-smart-city-development_video-still_770x616.jpg",
+                    "type": "image/jpeg",
+                    "size": 71044,
+                    "description": null,
+                    "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/7bdc33e1-2bc3-48f5-9551-e5e8e5524db4/reality-smart-city-development_video-still_770x616.jpg",
+                    "width": 770,
+                    "height": 616
+                }]
+            }
+        }]
+    },
+    "more_about_text": {
+        "rawData": {
+            "type": "text",
+            "name": "More About Text",
+            "value": "Be part of the discussion on how smart cities growth will influence policies, transportation, cities and towns, our industry and our planet. See innovative technology and hear from global leaders in IoT, 5G connectivity, transportation and smart automotive, energy and utilities, health and public safety, artificial intelligence and data analytics."
+        },
+        "name": "More About Text",
+        "type": "text",
+        "value": "Be part of the discussion on how smart cities growth will influence policies, transportation, cities and towns, our industry and our planet. See innovative technology and hear from global leaders in IoT, 5G connectivity, transportation and smart automotive, energy and utilities, health and public safety, artificial intelligence and data analytics."
+    },
+    "calloutStatistic": {
+        "rawData": {
+            "type": "text",
+            "name": "Callout Statistic",
+            "value": "$34B"
+        },
+        "name": "Callout Statistic",
+        "type": "text",
+        "value": "$34B"
+    },
+    "calloutText": {
+        "rawData": {
+            "type": "text",
+            "name": "Callout Text",
+            "value": "Global smart cities spending by 2020"
+        },
+        "name": "Callout Text",
+        "type": "text",
+        "value": "Global smart cities spending by 2020"
+    },
+    "case_study_content": {
+        "rawData": {
+            "type": "modular_content",
+            "name": "Case Study Content",
+            "value": ["bell_nexus"]
+        },
+        "name": "Case Study Content",
+        "type": "modular_content",
+        "itemCodenames": ["bell_nexus"],
+        "value": [{
+            "_config": {},
+            "system": {
+                "name": "Bell Nexus",
+                "codename": "bell_nexus",
+                "id": "7b1fca21-c2a9-4ea0-80f3-c46dee8189af",
+                "lastModified": "2020-02-03T21:35:40.155Z",
+                "language": "default",
+                "type": "success_story",
+                "sitemapLocations": []
+            },
+            "_raw": {
+                "system": {
+                    "id": "7b1fca21-c2a9-4ea0-80f3-c46dee8189af",
+                    "name": "Bell Nexus",
+                    "codename": "bell_nexus",
+                    "language": "default",
+                    "type": "success_story",
+                    "sitemap_locations": [],
+                    "last_modified": "2020-02-03T21:35:40.1556055Z"
+                },
+                "elements": {
+                    "title": {
+                        "type": "text",
+                        "name": "Title",
+                        "value": "Bell Nexus"
+                    },
+                    "summary": {
+                        "type": "text",
+                        "name": "Summary",
+                        "value": "For eight decades, Bell has made its name know by building vertical-lift aircraft that saves lives. Now, Bell is using CES to help reinvent itself as a technology company redefining flight. After two years exhibiting at CES, the exposure to potential customers and new partners keeps them coming back."
+                    },
+                    "callout_stat": {
+                        "type": "text",
+                        "name": "Callout Stat",
+                        "value": "1.1K+"
+                    },
+                    "callout_text": {
+                        "type": "text",
+                        "name": "Callout Text",
+                        "value": "global media hits from CES"
+                    },
+                    "body": {
+                        "type": "rich_text",
+                        "name": "Body",
+                        "images": {},
+                        "links": {},
+                        "modular_content": [],
+                        "value": "<p><a href=\"https://www.bellflight.com/\">Bell</a>&nbsp;is transforming from a helicopter and tilt rotor company to a technology company that provides vertical lift solutions to the world, and exhibiting at CES was a perfect match.</p>\n<p>\"CES is the heart of technology around the world,” says Scott Drennan, vice president of innovation at Bell. “Everyone is here displaying their tech, so we wanted to do the same.”</p>\n<p>At CES 2019, Bell unveiled&nbsp;<a href=\"http://www.bellflight.com/company/innovation/nexus\">Bell Nexus</a>, which is at the heart of their on-demand mobility philosophy and will take on the air taxi mission, as well as logistics for businesses. To serve the unmanned logistics market, Bell’s Autonomous Pod Transport (APT) vehicle was also on display.</p>\n<p>“Our exhibit is an evolution of what we did at CES 2018, where we just showed everyone the cockpit of the Bell Nexus and had a virtual experience that gave you the sense of what it would be like to take an air vehicle,” Drennan says. “We came back to show people how it flies.”</p>\n<p>Also, during CES 2019, Bell took advantage of the technically-savvy attendees to conduct a portion of its future flight control study, which is helping define what noncommercial pilots need to operate a vehicle.</p>\n<p>The study will inform the design of the Bell Nexus control system, which aims to reduce the training burden for the general population to operate the aircraft in the same safe and efficient manner as a commercial pilot.</p>\n<p>“I think what you’re going to see at future CES events,” says Dr. Jim Gibson, experimental test pilot at Bell, “is how we’re using flight control laws behind the scenes, and even some artificial intelligence and advanced queuing, to help pilots digest the information that inundates them in an aerospace environment.”</p>\n<p>Bell’s solutions have traditionally been a VIP-type business, but the potential of Bell Nexus to be an air taxi and unmanned logistics solution broadens their customer base, and they come to CES to meet new customers.</p>\n<p>“We keep coming back to CES because there are new customers here,” Drennan says.</p>\n<p>Bell also benefitted from the CES environment that promotes serendipitous connections with potential partners and unexpected insights into the innovations in complimentary technology.</p>\n<p>“We’ve had wonderful interface with companies like Microsoft and Intel and Denso,” Drennan says. “To talk to folks like that about how we can open up a new dimension in vertical flight is really thrilling.”</p>\n<p>Bell Nexus is helping get everyone into the vertical dimension.</p>\n<p>“We’re looking forward to creating momentum with the people we meet here and opening up the market for Nexus,” Drennan says.</p>"
+                    },
+                    "url": {
+                        "type": "url_slug",
+                        "name": "URL",
+                        "value": "bell-nexus"
+                    },
+                    "topics_image": {
+                        "type": "asset",
+                        "name": "Topics Image",
+                        "value": [{
+                            "name": "bell-hero-suburb_445x334.jpg",
+                            "description": null,
+                            "type": "image/jpeg",
+                            "size": 54721,
+                            "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/ecee846f-d52c-4c66-a8bd-f23d1aa0884c/bell-hero-suburb_445x334.jpg",
+                            "width": 445,
+                            "height": 334
+                        }]
+                    }
+                }
+            },
+            "title": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Title",
+                    "value": "Bell Nexus"
+                },
+                "name": "Title",
+                "type": "text",
+                "value": "Bell Nexus"
+            },
+            "summary": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Summary",
+                    "value": "For eight decades, Bell has made its name know by building vertical-lift aircraft that saves lives. Now, Bell is using CES to help reinvent itself as a technology company redefining flight. After two years exhibiting at CES, the exposure to potential customers and new partners keeps them coming back."
+                },
+                "name": "Summary",
+                "type": "text",
+                "value": "For eight decades, Bell has made its name know by building vertical-lift aircraft that saves lives. Now, Bell is using CES to help reinvent itself as a technology company redefining flight. After two years exhibiting at CES, the exposure to potential customers and new partners keeps them coming back."
+            },
+            "calloutStat": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Callout Stat",
+                    "value": "1.1K+"
+                },
+                "name": "Callout Stat",
+                "type": "text",
+                "value": "1.1K+"
+            },
+            "calloutText": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Callout Text",
+                    "value": "global media hits from CES"
+                },
+                "name": "Callout Text",
+                "type": "text",
+                "value": "global media hits from CES"
+            },
+            "body": {
+                "rawData": {
+                    "type": "rich_text",
+                    "name": "Body",
+                    "images": {},
+                    "links": {},
+                    "modular_content": [],
+                    "value": "<p><a href=\"https://www.bellflight.com/\">Bell</a>&nbsp;is transforming from a helicopter and tilt rotor company to a technology company that provides vertical lift solutions to the world, and exhibiting at CES was a perfect match.</p>\n<p>\"CES is the heart of technology around the world,” says Scott Drennan, vice president of innovation at Bell. “Everyone is here displaying their tech, so we wanted to do the same.”</p>\n<p>At CES 2019, Bell unveiled&nbsp;<a href=\"http://www.bellflight.com/company/innovation/nexus\">Bell Nexus</a>, which is at the heart of their on-demand mobility philosophy and will take on the air taxi mission, as well as logistics for businesses. To serve the unmanned logistics market, Bell’s Autonomous Pod Transport (APT) vehicle was also on display.</p>\n<p>“Our exhibit is an evolution of what we did at CES 2018, where we just showed everyone the cockpit of the Bell Nexus and had a virtual experience that gave you the sense of what it would be like to take an air vehicle,” Drennan says. “We came back to show people how it flies.”</p>\n<p>Also, during CES 2019, Bell took advantage of the technically-savvy attendees to conduct a portion of its future flight control study, which is helping define what noncommercial pilots need to operate a vehicle.</p>\n<p>The study will inform the design of the Bell Nexus control system, which aims to reduce the training burden for the general population to operate the aircraft in the same safe and efficient manner as a commercial pilot.</p>\n<p>“I think what you’re going to see at future CES events,” says Dr. Jim Gibson, experimental test pilot at Bell, “is how we’re using flight control laws behind the scenes, and even some artificial intelligence and advanced queuing, to help pilots digest the information that inundates them in an aerospace environment.”</p>\n<p>Bell’s solutions have traditionally been a VIP-type business, but the potential of Bell Nexus to be an air taxi and unmanned logistics solution broadens their customer base, and they come to CES to meet new customers.</p>\n<p>“We keep coming back to CES because there are new customers here,” Drennan says.</p>\n<p>Bell also benefitted from the CES environment that promotes serendipitous connections with potential partners and unexpected insights into the innovations in complimentary technology.</p>\n<p>“We’ve had wonderful interface with companies like Microsoft and Intel and Denso,” Drennan says. “To talk to folks like that about how we can open up a new dimension in vertical flight is really thrilling.”</p>\n<p>Bell Nexus is helping get everyone into the vertical dimension.</p>\n<p>“We’re looking forward to creating momentum with the people we meet here and opening up the market for Nexus,” Drennan says.</p>"
+                },
+                "name": "Body",
+                "type": "rich_text",
+                "linkedItemCodenames": [],
+                "links": [],
+                "images": [],
+                "value": "<p><a href=\"https://www.bellflight.com/\">Bell</a>&nbsp;is transforming from a helicopter and tilt rotor company to a technology company that provides vertical lift solutions to the world, and exhibiting at CES was a perfect match.</p>\n<p>\"CES is the heart of technology around the world,” says Scott Drennan, vice president of innovation at Bell. “Everyone is here displaying their tech, so we wanted to do the same.”</p>\n<p>At CES 2019, Bell unveiled&nbsp;<a href=\"http://www.bellflight.com/company/innovation/nexus\">Bell Nexus</a>, which is at the heart of their on-demand mobility philosophy and will take on the air taxi mission, as well as logistics for businesses. To serve the unmanned logistics market, Bell’s Autonomous Pod Transport (APT) vehicle was also on display.</p>\n<p>“Our exhibit is an evolution of what we did at CES 2018, where we just showed everyone the cockpit of the Bell Nexus and had a virtual experience that gave you the sense of what it would be like to take an air vehicle,” Drennan says. “We came back to show people how it flies.”</p>\n<p>Also, during CES 2019, Bell took advantage of the technically-savvy attendees to conduct a portion of its future flight control study, which is helping define what noncommercial pilots need to operate a vehicle.</p>\n<p>The study will inform the design of the Bell Nexus control system, which aims to reduce the training burden for the general population to operate the aircraft in the same safe and efficient manner as a commercial pilot.</p>\n<p>“I think what you’re going to see at future CES events,” says Dr. Jim Gibson, experimental test pilot at Bell, “is how we’re using flight control laws behind the scenes, and even some artificial intelligence and advanced queuing, to help pilots digest the information that inundates them in an aerospace environment.”</p>\n<p>Bell’s solutions have traditionally been a VIP-type business, but the potential of Bell Nexus to be an air taxi and unmanned logistics solution broadens their customer base, and they come to CES to meet new customers.</p>\n<p>“We keep coming back to CES because there are new customers here,” Drennan says.</p>\n<p>Bell also benefitted from the CES environment that promotes serendipitous connections with potential partners and unexpected insights into the innovations in complimentary technology.</p>\n<p>“We’ve had wonderful interface with companies like Microsoft and Intel and Denso,” Drennan says. “To talk to folks like that about how we can open up a new dimension in vertical flight is really thrilling.”</p>\n<p>Bell Nexus is helping get everyone into the vertical dimension.</p>\n<p>“We’re looking forward to creating momentum with the people we meet here and opening up the market for Nexus,” Drennan says.</p>"
+            },
+            "url": {
+                "rawData": {
+                    "type": "url_slug",
+                    "name": "URL",
+                    "value": "bell-nexus"
+                },
+                "name": "URL",
+                "type": "url_slug",
+                "value": "bell-nexus"
+            },
+            "topicsImage": {
+                "rawData": {
+                    "type": "asset",
+                    "name": "Topics Image",
+                    "value": [{
+                        "name": "bell-hero-suburb_445x334.jpg",
+                        "description": null,
+                        "type": "image/jpeg",
+                        "size": 54721,
+                        "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/ecee846f-d52c-4c66-a8bd-f23d1aa0884c/bell-hero-suburb_445x334.jpg",
+                        "width": 445,
+                        "height": 334
+                    }]
+                },
+                "name": "Topics Image",
+                "type": "asset",
+                "value": [{
+                    "contract": {
+                        "name": "bell-hero-suburb_445x334.jpg",
+                        "description": null,
+                        "type": "image/jpeg",
+                        "size": 54721,
+                        "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/ecee846f-d52c-4c66-a8bd-f23d1aa0884c/bell-hero-suburb_445x334.jpg",
+                        "width": 445,
+                        "height": 334
+                    },
+                    "name": "bell-hero-suburb_445x334.jpg",
+                    "type": "image/jpeg",
+                    "size": 54721,
+                    "description": null,
+                    "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/ecee846f-d52c-4c66-a8bd-f23d1aa0884c/bell-hero-suburb_445x334.jpg",
+                    "width": 445,
+                    "height": 334
+                }]
+            }
+        }]
+    },
+    "latest_section_content": {
+        "rawData": {
+            "type": "modular_content",
+            "name": "Latest Section Content",
+            "value": ["public_private_partnerships_to_create_smart_cities"]
+        },
+        "name": "Latest Section Content",
+        "type": "modular_content",
+        "itemCodenames": ["public_private_partnerships_to_create_smart_cities"],
+        "value": [{
+            "_config": {},
+            "system": {
+                "name": "Public-Private Partnerships to Create Smart Cities",
+                "codename": "public_private_partnerships_to_create_smart_cities",
+                "id": "854e14c5-b954-494c-86f5-86c77766a085",
+                "lastModified": "2020-02-03T21:33:46.770Z",
+                "language": "default",
+                "type": "video",
+                "sitemapLocations": []
+            },
+            "_raw": {
+                "system": {
+                    "id": "854e14c5-b954-494c-86f5-86c77766a085",
+                    "name": "Public-Private Partnerships to Create Smart Cities",
+                    "codename": "public_private_partnerships_to_create_smart_cities",
+                    "language": "default",
+                    "type": "video",
+                    "sitemap_locations": [],
+                    "last_modified": "2020-02-03T21:33:46.7704028Z"
+                },
+                "elements": {
+                    "title": {
+                        "type": "text",
+                        "name": "Title",
+                        "value": "Public-Private Partnerships to Create Smart Cities"
+                    },
+                    "summary": {
+                        "type": "text",
+                        "name": "Summary",
+                        "value": "Initiatives to redesign cities so that they are smarter and more sustainable are increasing. Cities and smart solution providers are coming together to address the greatest challenges as metropolitan areas strive to advance their technology."
+                    },
+                    "video_html": {
+                        "type": "text",
+                        "name": "Video HTML",
+                        "value": "<div style=\"position: relative; display: block; max-width: 600px;\"><div style=\"padding-top: 56.25%;\"><iframe src=\"https://players.brightcove.net/5629323166001/rkJgDVPyG_default/index.html?videoId=6121168271001\" allowfullscreen=\"\" allow=\"encrypted-media\" style=\"position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;\"></iframe></div></div>"
+                    },
+                    "date": {
+                        "type": "date_time",
+                        "name": "Date",
+                        "value": "2020-01-09T00:00:00Z"
+                    },
+                    "speakers": {
+                        "type": "modular_content",
+                        "name": "Speakers",
+                        "value": ["sokwoo_rhee"]
+                    },
+                    "url": {
+                        "type": "url_slug",
+                        "name": "URL",
+                        "value": "public-private-partnerships-to-create-smart-cities"
+                    },
+                    "topics_image": {
+                        "type": "asset",
+                        "name": "Topics Image",
+                        "value": [{
+                            "name": "public-private-partnerships_video-still_770x616.jpg",
+                            "description": null,
+                            "type": "image/jpeg",
+                            "size": 70525,
+                            "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/58d79eec-647e-441a-b974-bcc7b6e4cabd/public-private-partnerships_video-still_770x616.jpg",
+                            "width": 770,
+                            "height": 616
+                        }]
+                    }
+                }
+            },
+            "title": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Title",
+                    "value": "Public-Private Partnerships to Create Smart Cities"
+                },
+                "name": "Title",
+                "type": "text",
+                "value": "Public-Private Partnerships to Create Smart Cities"
+            },
+            "summary": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Summary",
+                    "value": "Initiatives to redesign cities so that they are smarter and more sustainable are increasing. Cities and smart solution providers are coming together to address the greatest challenges as metropolitan areas strive to advance their technology."
+                },
+                "name": "Summary",
+                "type": "text",
+                "value": "Initiatives to redesign cities so that they are smarter and more sustainable are increasing. Cities and smart solution providers are coming together to address the greatest challenges as metropolitan areas strive to advance their technology."
+            },
+            "videoHtml": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Video HTML",
+                    "value": "<div style=\"position: relative; display: block; max-width: 600px;\"><div style=\"padding-top: 56.25%;\"><iframe src=\"https://players.brightcove.net/5629323166001/rkJgDVPyG_default/index.html?videoId=6121168271001\" allowfullscreen=\"\" allow=\"encrypted-media\" style=\"position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;\"></iframe></div></div>"
+                },
+                "name": "Video HTML",
+                "type": "text",
+                "value": "<div style=\"position: relative; display: block; max-width: 600px;\"><div style=\"padding-top: 56.25%;\"><iframe src=\"https://players.brightcove.net/5629323166001/rkJgDVPyG_default/index.html?videoId=6121168271001\" allowfullscreen=\"\" allow=\"encrypted-media\" style=\"position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;\"></iframe></div></div>"
+            },
+            "date": {
+                "rawData": {
+                    "type": "date_time",
+                    "name": "Date",
+                    "value": "2020-01-09T00:00:00Z"
+                },
+                "name": "Date",
+                "type": "date_time",
+                "value": "2020-01-09T00:00:00.000Z"
+            },
+            "speakers": {
+                "rawData": {
+                    "type": "modular_content",
+                    "name": "Speakers",
+                    "value": ["sokwoo_rhee"]
+                },
+                "name": "Speakers",
+                "type": "modular_content",
+                "itemCodenames": ["sokwoo_rhee"],
+                "value": [{
+                    "system": {
+                        "name": "Sokwoo Rhee",
+                        "codename": "sokwoo_rhee",
+                        "id": "942e794d-6594-4adb-81a8-7a11590b0c50",
+                        "lastModified": "2020-02-03T21:15:30.815Z",
+                        "language": "default",
+                        "type": "speaker",
+                        "sitemapLocations": []
+                    },
+                    "_raw": {
+                        "system": {
+                            "id": "942e794d-6594-4adb-81a8-7a11590b0c50",
+                            "name": "Sokwoo Rhee",
+                            "codename": "sokwoo_rhee",
+                            "language": "default",
+                            "type": "speaker",
+                            "sitemap_locations": [],
+                            "last_modified": "2020-02-03T21:15:30.8156607Z"
+                        },
+                        "elements": {
+                            "name": {
+                                "type": "text",
+                                "name": "Name",
+                                "value": "Sokwoo Rhee"
+                            },
+                            "headshot": {
+                                "type": "asset",
+                                "name": "Headshot",
+                                "value": [{
+                                    "name": "sokwoo-rhee.jpg",
+                                    "description": null,
+                                    "type": "image/jpeg",
+                                    "size": 6285,
+                                    "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/8c5f9a3e-db7f-4658-b88e-ae7200ddeb63/sokwoo-rhee.jpg",
+                                    "width": 200,
+                                    "height": 200
+                                }]
+                            },
+                            "title": {
+                                "type": "text",
+                                "name": "Title",
+                                "value": "Associate Director for Cyber-Physical Systems Innovation, NIST, U.S. Department of Commerce"
+                            },
+                            "bio": {
+                                "type": "text",
+                                "name": "Bio",
+                                "value": "Sokwoo Rhee is Associate Director for Cyber-Physical Systems Innovation at the National Institute of Standards and Technology (NIST), U.S. Department of Commerce. He is currently leading the Global City Teams Challenge (GCTC) which aims to create a replicable and scalable model for collaborative incubation and deployment of Internet of Things (IoT) and Cyber-Physical Systems (CPS) solutions to improve the quality of life in smart cities around the world. He previously served as a Presidential Innovation Fellow on CPS, a program by the White House Office of Science and Technology Policy. During his fellowship, he co-led the SmartAmerica Challenge, which brought together IoT technologies and CPS across the nation to demonstrate how they can provide concrete examples of the socio-economic benefits.\n\nPrior to joining US government, he was Co-founder and CTO of Millennial Net, Inc., which was one of the first to successfully commercialize low-power wireless network and Internet of Things technology from academia. His work and achievements have been recognized through awards including MIT Technology Review’s Top Innovators under 35 and Red Herring’s Top 5 Innovators. He received his M.S. and Ph.D. in Mechanical Engineering from Massachusetts Institute of Technology."
+                            }
+                        }
+                    },
+                    "name": {
+                        "rawData": {
+                            "type": "text",
+                            "name": "Name",
+                            "value": "Sokwoo Rhee"
+                        },
+                        "name": "Name",
+                        "type": "text",
+                        "value": "Sokwoo Rhee"
+                    },
+                    "headshot": {
+                        "rawData": {
+                            "type": "asset",
+                            "name": "Headshot",
+                            "value": [{
+                                "name": "sokwoo-rhee.jpg",
+                                "description": null,
+                                "type": "image/jpeg",
+                                "size": 6285,
+                                "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/8c5f9a3e-db7f-4658-b88e-ae7200ddeb63/sokwoo-rhee.jpg",
+                                "width": 200,
+                                "height": 200
+                            }]
+                        },
+                        "name": "Headshot",
+                        "type": "asset",
+                        "value": [{
+                            "contract": {
+                                "name": "sokwoo-rhee.jpg",
+                                "description": null,
+                                "type": "image/jpeg",
+                                "size": 6285,
+                                "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/8c5f9a3e-db7f-4658-b88e-ae7200ddeb63/sokwoo-rhee.jpg",
+                                "width": 200,
+                                "height": 200
+                            },
+                            "name": "sokwoo-rhee.jpg",
+                            "type": "image/jpeg",
+                            "size": 6285,
+                            "description": null,
+                            "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/8c5f9a3e-db7f-4658-b88e-ae7200ddeb63/sokwoo-rhee.jpg",
+                            "width": 200,
+                            "height": 200
+                        }]
+                    },
+                    "title": {
+                        "rawData": {
+                            "type": "text",
+                            "name": "Title",
+                            "value": "Associate Director for Cyber-Physical Systems Innovation, NIST, U.S. Department of Commerce"
+                        },
+                        "name": "Title",
+                        "type": "text",
+                        "value": "Associate Director for Cyber-Physical Systems Innovation, NIST, U.S. Department of Commerce"
+                    },
+                    "bio": {
+                        "rawData": {
+                            "type": "text",
+                            "name": "Bio",
+                            "value": "Sokwoo Rhee is Associate Director for Cyber-Physical Systems Innovation at the National Institute of Standards and Technology (NIST), U.S. Department of Commerce. He is currently leading the Global City Teams Challenge (GCTC) which aims to create a replicable and scalable model for collaborative incubation and deployment of Internet of Things (IoT) and Cyber-Physical Systems (CPS) solutions to improve the quality of life in smart cities around the world. He previously served as a Presidential Innovation Fellow on CPS, a program by the White House Office of Science and Technology Policy. During his fellowship, he co-led the SmartAmerica Challenge, which brought together IoT technologies and CPS across the nation to demonstrate how they can provide concrete examples of the socio-economic benefits.\n\nPrior to joining US government, he was Co-founder and CTO of Millennial Net, Inc., which was one of the first to successfully commercialize low-power wireless network and Internet of Things technology from academia. His work and achievements have been recognized through awards including MIT Technology Review’s Top Innovators under 35 and Red Herring’s Top 5 Innovators. He received his M.S. and Ph.D. in Mechanical Engineering from Massachusetts Institute of Technology."
+                        },
+                        "name": "Bio",
+                        "type": "text",
+                        "value": "Sokwoo Rhee is Associate Director for Cyber-Physical Systems Innovation at the National Institute of Standards and Technology (NIST), U.S. Department of Commerce. He is currently leading the Global City Teams Challenge (GCTC) which aims to create a replicable and scalable model for collaborative incubation and deployment of Internet of Things (IoT) and Cyber-Physical Systems (CPS) solutions to improve the quality of life in smart cities around the world. He previously served as a Presidential Innovation Fellow on CPS, a program by the White House Office of Science and Technology Policy. During his fellowship, he co-led the SmartAmerica Challenge, which brought together IoT technologies and CPS across the nation to demonstrate how they can provide concrete examples of the socio-economic benefits.\n\nPrior to joining US government, he was Co-founder and CTO of Millennial Net, Inc., which was one of the first to successfully commercialize low-power wireless network and Internet of Things technology from academia. His work and achievements have been recognized through awards including MIT Technology Review’s Top Innovators under 35 and Red Herring’s Top 5 Innovators. He received his M.S. and Ph.D. in Mechanical Engineering from Massachusetts Institute of Technology."
+                    }
+                }]
+            },
+            "url": {
+                "rawData": {
+                    "type": "url_slug",
+                    "name": "URL",
+                    "value": "public-private-partnerships-to-create-smart-cities"
+                },
+                "name": "URL",
+                "type": "url_slug",
+                "value": "public-private-partnerships-to-create-smart-cities"
+            },
+            "topicsImage": {
+                "rawData": {
+                    "type": "asset",
+                    "name": "Topics Image",
+                    "value": [{
+                        "name": "public-private-partnerships_video-still_770x616.jpg",
+                        "description": null,
+                        "type": "image/jpeg",
+                        "size": 70525,
+                        "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/58d79eec-647e-441a-b974-bcc7b6e4cabd/public-private-partnerships_video-still_770x616.jpg",
+                        "width": 770,
+                        "height": 616
+                    }]
+                },
+                "name": "Topics Image",
+                "type": "asset",
+                "value": [{
+                    "contract": {
+                        "name": "public-private-partnerships_video-still_770x616.jpg",
+                        "description": null,
+                        "type": "image/jpeg",
+                        "size": 70525,
+                        "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/58d79eec-647e-441a-b974-bcc7b6e4cabd/public-private-partnerships_video-still_770x616.jpg",
+                        "width": 770,
+                        "height": 616
+                    },
+                    "name": "public-private-partnerships_video-still_770x616.jpg",
+                    "type": "image/jpeg",
+                    "size": 70525,
+                    "description": null,
+                    "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/58d79eec-647e-441a-b974-bcc7b6e4cabd/public-private-partnerships_video-still_770x616.jpg",
+                    "width": 770,
+                    "height": 616
+                }]
+            }
+        }]
+    },
+    "linkedVideos": {
+        "rawData": {
+            "type": "modular_content",
+            "name": "Linked Videos",
+            "value": ["blending_new_tech_and_aging_infrastructure_in_smar", "top_security_trends_in_smart_cities", "network_infrastructure_is_key_to_smart_cities"]
+        },
+        "name": "Linked Videos",
+        "type": "modular_content",
+        "itemCodenames": ["blending_new_tech_and_aging_infrastructure_in_smar", "top_security_trends_in_smart_cities", "network_infrastructure_is_key_to_smart_cities"],
+        "value": [{
+            "_config": {},
+            "system": {
+                "name": "Blending New Tech and Aging Infrastructure in Smar",
+                "codename": "blending_new_tech_and_aging_infrastructure_in_smar",
+                "id": "dda83381-2741-4fe7-b091-97317be5256b",
+                "lastModified": "2020-02-03T21:31:34.366Z",
+                "language": "default",
+                "type": "video",
+                "sitemapLocations": []
+            },
+            "_raw": {
+                "system": {
+                    "id": "dda83381-2741-4fe7-b091-97317be5256b",
+                    "name": "Blending New Tech and Aging Infrastructure in Smar",
+                    "codename": "blending_new_tech_and_aging_infrastructure_in_smar",
+                    "language": "default",
+                    "type": "video",
+                    "sitemap_locations": [],
+                    "last_modified": "2020-02-03T21:31:34.3664178Z"
+                },
+                "elements": {
+                    "title": {
+                        "type": "text",
+                        "name": "Title",
+                        "value": "Blending New Tech and Aging Infrastructure in Smart Cities"
+                    },
+                    "summary": {
+                        "type": "text",
+                        "name": "Summary",
+                        "value": "City officials face the challenges of aging infrastructure and how to fix their crumbling streets, sewers and subways. Striving for improvement through renewal, cities are repurposing existing infrastructure and adding tech for smart city solutions."
+                    },
+                    "video_html": {
+                        "type": "text",
+                        "name": "Video HTML",
+                        "value": "<div style=\"position: relative; display: block; max-width: 600px;\"><div style=\"padding-top: 56.25%;\"><iframe src=\"https://players.brightcove.net/5629323166001/rkJgDVPyG_default/index.html?videoId=6120815623001\" allowfullscreen=\"\" allow=\"encrypted-media\" style=\"position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;\"></iframe></div></div>"
+                    },
+                    "date": {
+                        "type": "date_time",
+                        "name": "Date",
+                        "value": "2020-01-08T00:00:00Z"
+                    },
+                    "speakers": {
+                        "type": "modular_content",
+                        "name": "Speakers",
+                        "value": ["suzanne_murtha"]
+                    },
+                    "url": {
+                        "type": "url_slug",
+                        "name": "URL",
+                        "value": "blending-new-tech-and-aging-infrastructure-in-smart-cities"
+                    },
+                    "topics_image": {
+                        "type": "asset",
+                        "name": "Topics Image",
+                        "value": [{
+                            "name": "blending-new-tech-aging-infrastructure_video-still_600x334.jpg",
+                            "description": null,
+                            "type": "image/jpeg",
+                            "size": 52210,
+                            "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/521b30f0-0246-4335-b971-182ecdfe0a43/blending-new-tech-aging-infrastructure_video-still_600x334.jpg",
+                            "width": 600,
+                            "height": 334
+                        }]
+                    }
+                }
+            },
+            "title": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Title",
+                    "value": "Blending New Tech and Aging Infrastructure in Smart Cities"
+                },
+                "name": "Title",
+                "type": "text",
+                "value": "Blending New Tech and Aging Infrastructure in Smart Cities"
+            },
+            "summary": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Summary",
+                    "value": "City officials face the challenges of aging infrastructure and how to fix their crumbling streets, sewers and subways. Striving for improvement through renewal, cities are repurposing existing infrastructure and adding tech for smart city solutions."
+                },
+                "name": "Summary",
+                "type": "text",
+                "value": "City officials face the challenges of aging infrastructure and how to fix their crumbling streets, sewers and subways. Striving for improvement through renewal, cities are repurposing existing infrastructure and adding tech for smart city solutions."
+            },
+            "videoHtml": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Video HTML",
+                    "value": "<div style=\"position: relative; display: block; max-width: 600px;\"><div style=\"padding-top: 56.25%;\"><iframe src=\"https://players.brightcove.net/5629323166001/rkJgDVPyG_default/index.html?videoId=6120815623001\" allowfullscreen=\"\" allow=\"encrypted-media\" style=\"position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;\"></iframe></div></div>"
+                },
+                "name": "Video HTML",
+                "type": "text",
+                "value": "<div style=\"position: relative; display: block; max-width: 600px;\"><div style=\"padding-top: 56.25%;\"><iframe src=\"https://players.brightcove.net/5629323166001/rkJgDVPyG_default/index.html?videoId=6120815623001\" allowfullscreen=\"\" allow=\"encrypted-media\" style=\"position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;\"></iframe></div></div>"
+            },
+            "date": {
+                "rawData": {
+                    "type": "date_time",
+                    "name": "Date",
+                    "value": "2020-01-08T00:00:00Z"
+                },
+                "name": "Date",
+                "type": "date_time",
+                "value": "2020-01-08T00:00:00.000Z"
+            },
+            "speakers": {
+                "rawData": {
+                    "type": "modular_content",
+                    "name": "Speakers",
+                    "value": ["suzanne_murtha"]
+                },
+                "name": "Speakers",
+                "type": "modular_content",
+                "itemCodenames": ["suzanne_murtha"],
+                "value": [{
+                    "system": {
+                        "name": "Suzanne Murtha",
+                        "codename": "suzanne_murtha",
+                        "id": "11b1ed20-1205-4039-95c7-e6e6cc8d8483",
+                        "lastModified": "2020-02-03T21:22:21.175Z",
+                        "language": "default",
+                        "type": "speaker",
+                        "sitemapLocations": []
+                    },
+                    "_raw": {
+                        "system": {
+                            "id": "11b1ed20-1205-4039-95c7-e6e6cc8d8483",
+                            "name": "Suzanne Murtha",
+                            "codename": "suzanne_murtha",
+                            "language": "default",
+                            "type": "speaker",
+                            "sitemap_locations": [],
+                            "last_modified": "2020-02-03T21:22:21.1758335Z"
+                        },
+                        "elements": {
+                            "name": {
+                                "type": "text",
+                                "name": "Name",
+                                "value": "Suzanne Murtha"
+                            },
+                            "headshot": {
+                                "type": "asset",
+                                "name": "Headshot",
+                                "value": [{
+                                    "name": "suzanne-martha.jpg",
+                                    "description": null,
+                                    "type": "image/jpeg",
+                                    "size": 6361,
+                                    "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/af3fd602-ae47-41af-997c-11a077b65146/suzanne-martha.jpg",
+                                    "width": 200,
+                                    "height": 200
+                                }]
+                            },
+                            "title": {
+                                "type": "text",
+                                "name": "Title",
+                                "value": "Vice President Connected and Automated Technologies, AECOM"
+                            },
+                            "bio": {
+                                "type": "text",
+                                "name": "Bio",
+                                "value": "Suzanne Murtha is the National Lead for Connected and Automated Technology at AECOM. She is based in Alexandria, Virginia and is on the Board of Directors of AUVSI, a trade association that advocates for the advancement of automation and the OmniAir Consortium, a trade association that advocates for the development and promotion of certification for the intelligent transportation industry. A 23 year veteran of the ITS industry, Suzanne has significant deployment background in ITS and advanced automotive technologies including dedicated short-range communications, connected and automated vehicles, smart cities and big data. She has worked in-depth with the international ITS community and industry on advanced research, standards development, and certification processes. She has supported large-scale program management contracts and evaluation efforts for federal, state, local, and private clients."
+                            }
+                        }
+                    },
+                    "name": {
+                        "rawData": {
+                            "type": "text",
+                            "name": "Name",
+                            "value": "Suzanne Murtha"
+                        },
+                        "name": "Name",
+                        "type": "text",
+                        "value": "Suzanne Murtha"
+                    },
+                    "headshot": {
+                        "rawData": {
+                            "type": "asset",
+                            "name": "Headshot",
+                            "value": [{
+                                "name": "suzanne-martha.jpg",
+                                "description": null,
+                                "type": "image/jpeg",
+                                "size": 6361,
+                                "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/af3fd602-ae47-41af-997c-11a077b65146/suzanne-martha.jpg",
+                                "width": 200,
+                                "height": 200
+                            }]
+                        },
+                        "name": "Headshot",
+                        "type": "asset",
+                        "value": [{
+                            "contract": {
+                                "name": "suzanne-martha.jpg",
+                                "description": null,
+                                "type": "image/jpeg",
+                                "size": 6361,
+                                "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/af3fd602-ae47-41af-997c-11a077b65146/suzanne-martha.jpg",
+                                "width": 200,
+                                "height": 200
+                            },
+                            "name": "suzanne-martha.jpg",
+                            "type": "image/jpeg",
+                            "size": 6361,
+                            "description": null,
+                            "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/af3fd602-ae47-41af-997c-11a077b65146/suzanne-martha.jpg",
+                            "width": 200,
+                            "height": 200
+                        }]
+                    },
+                    "title": {
+                        "rawData": {
+                            "type": "text",
+                            "name": "Title",
+                            "value": "Vice President Connected and Automated Technologies, AECOM"
+                        },
+                        "name": "Title",
+                        "type": "text",
+                        "value": "Vice President Connected and Automated Technologies, AECOM"
+                    },
+                    "bio": {
+                        "rawData": {
+                            "type": "text",
+                            "name": "Bio",
+                            "value": "Suzanne Murtha is the National Lead for Connected and Automated Technology at AECOM. She is based in Alexandria, Virginia and is on the Board of Directors of AUVSI, a trade association that advocates for the advancement of automation and the OmniAir Consortium, a trade association that advocates for the development and promotion of certification for the intelligent transportation industry. A 23 year veteran of the ITS industry, Suzanne has significant deployment background in ITS and advanced automotive technologies including dedicated short-range communications, connected and automated vehicles, smart cities and big data. She has worked in-depth with the international ITS community and industry on advanced research, standards development, and certification processes. She has supported large-scale program management contracts and evaluation efforts for federal, state, local, and private clients."
+                        },
+                        "name": "Bio",
+                        "type": "text",
+                        "value": "Suzanne Murtha is the National Lead for Connected and Automated Technology at AECOM. She is based in Alexandria, Virginia and is on the Board of Directors of AUVSI, a trade association that advocates for the advancement of automation and the OmniAir Consortium, a trade association that advocates for the development and promotion of certification for the intelligent transportation industry. A 23 year veteran of the ITS industry, Suzanne has significant deployment background in ITS and advanced automotive technologies including dedicated short-range communications, connected and automated vehicles, smart cities and big data. She has worked in-depth with the international ITS community and industry on advanced research, standards development, and certification processes. She has supported large-scale program management contracts and evaluation efforts for federal, state, local, and private clients."
+                    }
+                }]
+            },
+            "url": {
+                "rawData": {
+                    "type": "url_slug",
+                    "name": "URL",
+                    "value": "blending-new-tech-and-aging-infrastructure-in-smart-cities"
+                },
+                "name": "URL",
+                "type": "url_slug",
+                "value": "blending-new-tech-and-aging-infrastructure-in-smart-cities"
+            },
+            "topicsImage": {
+                "rawData": {
+                    "type": "asset",
+                    "name": "Topics Image",
+                    "value": [{
+                        "name": "blending-new-tech-aging-infrastructure_video-still_600x334.jpg",
+                        "description": null,
+                        "type": "image/jpeg",
+                        "size": 52210,
+                        "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/521b30f0-0246-4335-b971-182ecdfe0a43/blending-new-tech-aging-infrastructure_video-still_600x334.jpg",
+                        "width": 600,
+                        "height": 334
+                    }]
+                },
+                "name": "Topics Image",
+                "type": "asset",
+                "value": [{
+                    "contract": {
+                        "name": "blending-new-tech-aging-infrastructure_video-still_600x334.jpg",
+                        "description": null,
+                        "type": "image/jpeg",
+                        "size": 52210,
+                        "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/521b30f0-0246-4335-b971-182ecdfe0a43/blending-new-tech-aging-infrastructure_video-still_600x334.jpg",
+                        "width": 600,
+                        "height": 334
+                    },
+                    "name": "blending-new-tech-aging-infrastructure_video-still_600x334.jpg",
+                    "type": "image/jpeg",
+                    "size": 52210,
+                    "description": null,
+                    "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/521b30f0-0246-4335-b971-182ecdfe0a43/blending-new-tech-aging-infrastructure_video-still_600x334.jpg",
+                    "width": 600,
+                    "height": 334
+                }]
+            }
+        }, {
+            "_config": {},
+            "system": {
+                "name": "Top Security Trends in Smart Cities",
+                "codename": "top_security_trends_in_smart_cities",
+                "id": "60945b38-d70b-4a85-997b-06e71d2986a5",
+                "lastModified": "2020-02-03T21:32:14.219Z",
+                "language": "default",
+                "type": "video",
+                "sitemapLocations": []
+            },
+            "_raw": {
+                "system": {
+                    "id": "60945b38-d70b-4a85-997b-06e71d2986a5",
+                    "name": "Top Security Trends in Smart Cities",
+                    "codename": "top_security_trends_in_smart_cities",
+                    "language": "default",
+                    "type": "video",
+                    "sitemap_locations": [],
+                    "last_modified": "2020-02-03T21:32:14.2190575Z"
+                },
+                "elements": {
+                    "title": {
+                        "type": "text",
+                        "name": "Title",
+                        "value": "Top Security Trends in Smart Cities"
+                    },
+                    "summary": {
+                        "type": "text",
+                        "name": "Summary",
+                        "value": "Security is top of mind for connected cities. Learn how smart cities are preparing to prevent digital disruptions in their health care, communication and emergency systems."
+                    },
+                    "video_html": {
+                        "type": "text",
+                        "name": "Video HTML",
+                        "value": "<div style=\"position: relative; display: block; max-width: 600px;\"><div style=\"padding-top: 56.25%;\"><iframe src=\"https://players.brightcove.net/5629323166001/rkJgDVPyG_default/index.html?videoId=6121137446001\" allowfullscreen=\"\" allow=\"encrypted-media\" style=\"position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;\"></iframe></div></div>"
+                    },
+                    "date": {
+                        "type": "date_time",
+                        "name": "Date",
+                        "value": "2020-01-09T00:00:00Z"
+                    },
+                    "speakers": {
+                        "type": "modular_content",
+                        "name": "Speakers",
+                        "value": ["alissa_knight"]
+                    },
+                    "url": {
+                        "type": "url_slug",
+                        "name": "URL",
+                        "value": "top-security-trends-in-smart-cities"
+                    },
+                    "topics_image": {
+                        "type": "asset",
+                        "name": "Topics Image",
+                        "value": [{
+                            "name": "top-security-trends_video-still_600x334.jpg",
+                            "description": null,
+                            "type": "image/jpeg",
+                            "size": 54983,
+                            "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/d2c67c30-9d17-4bc4-b48b-082961863d77/top-security-trends_video-still_600x334.jpg",
+                            "width": 600,
+                            "height": 334
+                        }]
+                    }
+                }
+            },
+            "title": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Title",
+                    "value": "Top Security Trends in Smart Cities"
+                },
+                "name": "Title",
+                "type": "text",
+                "value": "Top Security Trends in Smart Cities"
+            },
+            "summary": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Summary",
+                    "value": "Security is top of mind for connected cities. Learn how smart cities are preparing to prevent digital disruptions in their health care, communication and emergency systems."
+                },
+                "name": "Summary",
+                "type": "text",
+                "value": "Security is top of mind for connected cities. Learn how smart cities are preparing to prevent digital disruptions in their health care, communication and emergency systems."
+            },
+            "videoHtml": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Video HTML",
+                    "value": "<div style=\"position: relative; display: block; max-width: 600px;\"><div style=\"padding-top: 56.25%;\"><iframe src=\"https://players.brightcove.net/5629323166001/rkJgDVPyG_default/index.html?videoId=6121137446001\" allowfullscreen=\"\" allow=\"encrypted-media\" style=\"position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;\"></iframe></div></div>"
+                },
+                "name": "Video HTML",
+                "type": "text",
+                "value": "<div style=\"position: relative; display: block; max-width: 600px;\"><div style=\"padding-top: 56.25%;\"><iframe src=\"https://players.brightcove.net/5629323166001/rkJgDVPyG_default/index.html?videoId=6121137446001\" allowfullscreen=\"\" allow=\"encrypted-media\" style=\"position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;\"></iframe></div></div>"
+            },
+            "date": {
+                "rawData": {
+                    "type": "date_time",
+                    "name": "Date",
+                    "value": "2020-01-09T00:00:00Z"
+                },
+                "name": "Date",
+                "type": "date_time",
+                "value": "2020-01-09T00:00:00.000Z"
+            },
+            "speakers": {
+                "rawData": {
+                    "type": "modular_content",
+                    "name": "Speakers",
+                    "value": ["alissa_knight"]
+                },
+                "name": "Speakers",
+                "type": "modular_content",
+                "itemCodenames": ["alissa_knight"],
+                "value": [{
+                    "system": {
+                        "name": "Alissa Knight",
+                        "codename": "alissa_knight",
+                        "id": "34ae6b2a-f905-450d-9204-f2d5d6fb00ca",
+                        "lastModified": "2020-02-03T21:24:04.491Z",
+                        "language": "default",
+                        "type": "speaker",
+                        "sitemapLocations": []
+                    },
+                    "_raw": {
+                        "system": {
+                            "id": "34ae6b2a-f905-450d-9204-f2d5d6fb00ca",
+                            "name": "Alissa Knight",
+                            "codename": "alissa_knight",
+                            "language": "default",
+                            "type": "speaker",
+                            "sitemap_locations": [],
+                            "last_modified": "2020-02-03T21:24:04.4914152Z"
+                        },
+                        "elements": {
+                            "name": {
+                                "type": "text",
+                                "name": "Name",
+                                "value": "Alissa Knight"
+                            },
+                            "headshot": {
+                                "type": "asset",
+                                "name": "Headshot",
+                                "value": [{
+                                    "name": "alissa-knight.jpg",
+                                    "description": null,
+                                    "type": "image/jpeg",
+                                    "size": 5317,
+                                    "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/78e4a918-1bad-44a6-a6d2-bf34e3cba5c3/alissa-knight.jpg",
+                                    "width": 200,
+                                    "height": 200
+                                }]
+                            },
+                            "title": {
+                                "type": "text",
+                                "name": "Title",
+                                "value": "Author: Hacking Connected Cars, Knight Ink"
+                            },
+                            "bio": {
+                                "type": "text",
+                                "name": "Bio",
+                                "value": "Alissa Knight is a recognized hacker and published author of 20 years in hacking connected cars and IoT devices. She has worked with some of the largest automobile manufacturers and OEMs in the US, Europe, and Asia on hacking and securing fleets of connected vehicles. She has started and sold two cybersecurity startups in M&A transactions and is currently the chairperson on the board of directors for Brier & Thorn. Today, Alissa is a senior analyst with Aite Group and acts as a cybersecurity influencer and content creator for some of the largest brands in cybersecurity as a writer, vlogger, and speaker. Learn more about Alissa at www.alissaknight.com and connect with her on LinkedIn and Twitter."
+                            }
+                        }
+                    },
+                    "name": {
+                        "rawData": {
+                            "type": "text",
+                            "name": "Name",
+                            "value": "Alissa Knight"
+                        },
+                        "name": "Name",
+                        "type": "text",
+                        "value": "Alissa Knight"
+                    },
+                    "headshot": {
+                        "rawData": {
+                            "type": "asset",
+                            "name": "Headshot",
+                            "value": [{
+                                "name": "alissa-knight.jpg",
+                                "description": null,
+                                "type": "image/jpeg",
+                                "size": 5317,
+                                "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/78e4a918-1bad-44a6-a6d2-bf34e3cba5c3/alissa-knight.jpg",
+                                "width": 200,
+                                "height": 200
+                            }]
+                        },
+                        "name": "Headshot",
+                        "type": "asset",
+                        "value": [{
+                            "contract": {
+                                "name": "alissa-knight.jpg",
+                                "description": null,
+                                "type": "image/jpeg",
+                                "size": 5317,
+                                "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/78e4a918-1bad-44a6-a6d2-bf34e3cba5c3/alissa-knight.jpg",
+                                "width": 200,
+                                "height": 200
+                            },
+                            "name": "alissa-knight.jpg",
+                            "type": "image/jpeg",
+                            "size": 5317,
+                            "description": null,
+                            "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/78e4a918-1bad-44a6-a6d2-bf34e3cba5c3/alissa-knight.jpg",
+                            "width": 200,
+                            "height": 200
+                        }]
+                    },
+                    "title": {
+                        "rawData": {
+                            "type": "text",
+                            "name": "Title",
+                            "value": "Author: Hacking Connected Cars, Knight Ink"
+                        },
+                        "name": "Title",
+                        "type": "text",
+                        "value": "Author: Hacking Connected Cars, Knight Ink"
+                    },
+                    "bio": {
+                        "rawData": {
+                            "type": "text",
+                            "name": "Bio",
+                            "value": "Alissa Knight is a recognized hacker and published author of 20 years in hacking connected cars and IoT devices. She has worked with some of the largest automobile manufacturers and OEMs in the US, Europe, and Asia on hacking and securing fleets of connected vehicles. She has started and sold two cybersecurity startups in M&A transactions and is currently the chairperson on the board of directors for Brier & Thorn. Today, Alissa is a senior analyst with Aite Group and acts as a cybersecurity influencer and content creator for some of the largest brands in cybersecurity as a writer, vlogger, and speaker. Learn more about Alissa at www.alissaknight.com and connect with her on LinkedIn and Twitter."
+                        },
+                        "name": "Bio",
+                        "type": "text",
+                        "value": "Alissa Knight is a recognized hacker and published author of 20 years in hacking connected cars and IoT devices. She has worked with some of the largest automobile manufacturers and OEMs in the US, Europe, and Asia on hacking and securing fleets of connected vehicles. She has started and sold two cybersecurity startups in M&A transactions and is currently the chairperson on the board of directors for Brier & Thorn. Today, Alissa is a senior analyst with Aite Group and acts as a cybersecurity influencer and content creator for some of the largest brands in cybersecurity as a writer, vlogger, and speaker. Learn more about Alissa at www.alissaknight.com and connect with her on LinkedIn and Twitter."
+                    }
+                }]
+            },
+            "url": {
+                "rawData": {
+                    "type": "url_slug",
+                    "name": "URL",
+                    "value": "top-security-trends-in-smart-cities"
+                },
+                "name": "URL",
+                "type": "url_slug",
+                "value": "top-security-trends-in-smart-cities"
+            },
+            "topicsImage": {
+                "rawData": {
+                    "type": "asset",
+                    "name": "Topics Image",
+                    "value": [{
+                        "name": "top-security-trends_video-still_600x334.jpg",
+                        "description": null,
+                        "type": "image/jpeg",
+                        "size": 54983,
+                        "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/d2c67c30-9d17-4bc4-b48b-082961863d77/top-security-trends_video-still_600x334.jpg",
+                        "width": 600,
+                        "height": 334
+                    }]
+                },
+                "name": "Topics Image",
+                "type": "asset",
+                "value": [{
+                    "contract": {
+                        "name": "top-security-trends_video-still_600x334.jpg",
+                        "description": null,
+                        "type": "image/jpeg",
+                        "size": 54983,
+                        "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/d2c67c30-9d17-4bc4-b48b-082961863d77/top-security-trends_video-still_600x334.jpg",
+                        "width": 600,
+                        "height": 334
+                    },
+                    "name": "top-security-trends_video-still_600x334.jpg",
+                    "type": "image/jpeg",
+                    "size": 54983,
+                    "description": null,
+                    "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/d2c67c30-9d17-4bc4-b48b-082961863d77/top-security-trends_video-still_600x334.jpg",
+                    "width": 600,
+                    "height": 334
+                }]
+            }
+        }, {
+            "_config": {},
+            "system": {
+                "name": "Network Infrastructure Is Key to Smart Cities",
+                "codename": "network_infrastructure_is_key_to_smart_cities",
+                "id": "ae5c778c-dc80-4d4e-9000-b5299d8c79de",
+                "lastModified": "2020-02-03T21:32:56.098Z",
+                "language": "default",
+                "type": "video",
+                "sitemapLocations": []
+            },
+            "_raw": {
+                "system": {
+                    "id": "ae5c778c-dc80-4d4e-9000-b5299d8c79de",
+                    "name": "Network Infrastructure Is Key to Smart Cities",
+                    "codename": "network_infrastructure_is_key_to_smart_cities",
+                    "language": "default",
+                    "type": "video",
+                    "sitemap_locations": [],
+                    "last_modified": "2020-02-03T21:32:56.0987902Z"
+                },
+                "elements": {
+                    "title": {
+                        "type": "text",
+                        "name": "Title",
+                        "value": "Network Infrastructure Is Key to Smart Cities"
+                    },
+                    "summary": {
+                        "type": "text",
+                        "name": "Summary",
+                        "value": "Industry studies predicts that 70% of IoT devices will use cellular connections by 2022. Explore how smart cities are focused on robust and reliable network connectivity for optimal communication."
+                    },
+                    "video_html": {
+                        "type": "text",
+                        "name": "Video HTML",
+                        "value": "<div style=\"position: relative; display: block; max-width: 600px;\"><div style=\"padding-top: 56.25%;\"><iframe src=\"https://players.brightcove.net/5629323166001/rkJgDVPyG_default/index.html?videoId=6121077643001\" allowfullscreen=\"\" allow=\"encrypted-media\" style=\"position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;\"></iframe></div></div>"
+                    },
+                    "date": {
+                        "type": "date_time",
+                        "name": "Date",
+                        "value": "2020-01-09T00:00:00Z"
+                    },
+                    "speakers": {
+                        "type": "modular_content",
+                        "name": "Speakers",
+                        "value": ["carla_bailo"]
+                    },
+                    "url": {
+                        "type": "url_slug",
+                        "name": "URL",
+                        "value": "network-infrastructure-is-key-to-smart-cities"
+                    },
+                    "topics_image": {
+                        "type": "asset",
+                        "name": "Topics Image",
+                        "value": [{
+                            "name": "network-infrastructure-smart-cities_video-still_600x334.jpg",
+                            "description": null,
+                            "type": "image/jpeg",
+                            "size": 52480,
+                            "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/1e71db00-b154-468d-8c11-7002153a5f78/network-infrastructure-smart-cities_video-still_600x334.jpg",
+                            "width": 600,
+                            "height": 334
+                        }]
+                    }
+                }
+            },
+            "title": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Title",
+                    "value": "Network Infrastructure Is Key to Smart Cities"
+                },
+                "name": "Title",
+                "type": "text",
+                "value": "Network Infrastructure Is Key to Smart Cities"
+            },
+            "summary": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Summary",
+                    "value": "Industry studies predicts that 70% of IoT devices will use cellular connections by 2022. Explore how smart cities are focused on robust and reliable network connectivity for optimal communication."
+                },
+                "name": "Summary",
+                "type": "text",
+                "value": "Industry studies predicts that 70% of IoT devices will use cellular connections by 2022. Explore how smart cities are focused on robust and reliable network connectivity for optimal communication."
+            },
+            "videoHtml": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Video HTML",
+                    "value": "<div style=\"position: relative; display: block; max-width: 600px;\"><div style=\"padding-top: 56.25%;\"><iframe src=\"https://players.brightcove.net/5629323166001/rkJgDVPyG_default/index.html?videoId=6121077643001\" allowfullscreen=\"\" allow=\"encrypted-media\" style=\"position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;\"></iframe></div></div>"
+                },
+                "name": "Video HTML",
+                "type": "text",
+                "value": "<div style=\"position: relative; display: block; max-width: 600px;\"><div style=\"padding-top: 56.25%;\"><iframe src=\"https://players.brightcove.net/5629323166001/rkJgDVPyG_default/index.html?videoId=6121077643001\" allowfullscreen=\"\" allow=\"encrypted-media\" style=\"position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;\"></iframe></div></div>"
+            },
+            "date": {
+                "rawData": {
+                    "type": "date_time",
+                    "name": "Date",
+                    "value": "2020-01-09T00:00:00Z"
+                },
+                "name": "Date",
+                "type": "date_time",
+                "value": "2020-01-09T00:00:00.000Z"
+            },
+            "speakers": {
+                "rawData": {
+                    "type": "modular_content",
+                    "name": "Speakers",
+                    "value": ["carla_bailo"]
+                },
+                "name": "Speakers",
+                "type": "modular_content",
+                "itemCodenames": ["carla_bailo"],
+                "value": [{
+                    "system": {
+                        "name": "Carla Bailo",
+                        "codename": "carla_bailo",
+                        "id": "1650eceb-53e6-4bc4-86ee-7548d4750bc9",
+                        "lastModified": "2020-02-03T21:25:48.957Z",
+                        "language": "default",
+                        "type": "speaker",
+                        "sitemapLocations": []
+                    },
+                    "_raw": {
+                        "system": {
+                            "id": "1650eceb-53e6-4bc4-86ee-7548d4750bc9",
+                            "name": "Carla Bailo",
+                            "codename": "carla_bailo",
+                            "language": "default",
+                            "type": "speaker",
+                            "sitemap_locations": [],
+                            "last_modified": "2020-02-03T21:25:48.9570572Z"
+                        },
+                        "elements": {
+                            "name": {
+                                "type": "text",
+                                "name": "Name",
+                                "value": "Carla Bailo"
+                            },
+                            "headshot": {
+                                "type": "asset",
+                                "name": "Headshot",
+                                "value": [{
+                                    "name": "carla-bailo.jpg",
+                                    "description": null,
+                                    "type": "image/jpeg",
+                                    "size": 5574,
+                                    "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/2c04b5a8-eefe-4c05-8f5c-bd583ffaa818/carla-bailo.jpg",
+                                    "width": 200,
+                                    "height": 200
+                                }]
+                            },
+                            "title": {
+                                "type": "text",
+                                "name": "Title",
+                                "value": "President & CEO, Center for Automotive Research"
+                            },
+                            "bio": {
+                                "type": "text",
+                                "name": "Bio",
+                                "value": "Carla Bailo is the President and CEO of the Center for Automotive Research (CAR), and is a leader in engineering and vehicle program management with 35 years of experience in the automotive industry. Under her leadership, CAR continues to be a preeminent resource of objective and unbiased research, analysis, and information regarding the North American automotive industry. In addition to her role at CAR, Ms. Bailo is the 2016-2018 vice president of automotive for SAE International, a global association of more than 138,000 engineers and related technical experts in the aerospace, automotive and commercial-vehicle industries.\n\nPrior to joining CAR, she was most recently the assistant vice president for mobility research and business development at The Ohio State University. She also has 25 years of experience at Nissan North America, Inc., where she served as senior vice president of research and development. Ms. Bailo also spent 10 years at General Motors. She has a MS degree in mechanical engineering from the University of Michigan and a BS degree in mechanical engineering from Kettering University"
+                            }
+                        }
+                    },
+                    "name": {
+                        "rawData": {
+                            "type": "text",
+                            "name": "Name",
+                            "value": "Carla Bailo"
+                        },
+                        "name": "Name",
+                        "type": "text",
+                        "value": "Carla Bailo"
+                    },
+                    "headshot": {
+                        "rawData": {
+                            "type": "asset",
+                            "name": "Headshot",
+                            "value": [{
+                                "name": "carla-bailo.jpg",
+                                "description": null,
+                                "type": "image/jpeg",
+                                "size": 5574,
+                                "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/2c04b5a8-eefe-4c05-8f5c-bd583ffaa818/carla-bailo.jpg",
+                                "width": 200,
+                                "height": 200
+                            }]
+                        },
+                        "name": "Headshot",
+                        "type": "asset",
+                        "value": [{
+                            "contract": {
+                                "name": "carla-bailo.jpg",
+                                "description": null,
+                                "type": "image/jpeg",
+                                "size": 5574,
+                                "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/2c04b5a8-eefe-4c05-8f5c-bd583ffaa818/carla-bailo.jpg",
+                                "width": 200,
+                                "height": 200
+                            },
+                            "name": "carla-bailo.jpg",
+                            "type": "image/jpeg",
+                            "size": 5574,
+                            "description": null,
+                            "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/2c04b5a8-eefe-4c05-8f5c-bd583ffaa818/carla-bailo.jpg",
+                            "width": 200,
+                            "height": 200
+                        }]
+                    },
+                    "title": {
+                        "rawData": {
+                            "type": "text",
+                            "name": "Title",
+                            "value": "President & CEO, Center for Automotive Research"
+                        },
+                        "name": "Title",
+                        "type": "text",
+                        "value": "President & CEO, Center for Automotive Research"
+                    },
+                    "bio": {
+                        "rawData": {
+                            "type": "text",
+                            "name": "Bio",
+                            "value": "Carla Bailo is the President and CEO of the Center for Automotive Research (CAR), and is a leader in engineering and vehicle program management with 35 years of experience in the automotive industry. Under her leadership, CAR continues to be a preeminent resource of objective and unbiased research, analysis, and information regarding the North American automotive industry. In addition to her role at CAR, Ms. Bailo is the 2016-2018 vice president of automotive for SAE International, a global association of more than 138,000 engineers and related technical experts in the aerospace, automotive and commercial-vehicle industries.\n\nPrior to joining CAR, she was most recently the assistant vice president for mobility research and business development at The Ohio State University. She also has 25 years of experience at Nissan North America, Inc., where she served as senior vice president of research and development. Ms. Bailo also spent 10 years at General Motors. She has a MS degree in mechanical engineering from the University of Michigan and a BS degree in mechanical engineering from Kettering University"
+                        },
+                        "name": "Bio",
+                        "type": "text",
+                        "value": "Carla Bailo is the President and CEO of the Center for Automotive Research (CAR), and is a leader in engineering and vehicle program management with 35 years of experience in the automotive industry. Under her leadership, CAR continues to be a preeminent resource of objective and unbiased research, analysis, and information regarding the North American automotive industry. In addition to her role at CAR, Ms. Bailo is the 2016-2018 vice president of automotive for SAE International, a global association of more than 138,000 engineers and related technical experts in the aerospace, automotive and commercial-vehicle industries.\n\nPrior to joining CAR, she was most recently the assistant vice president for mobility research and business development at The Ohio State University. She also has 25 years of experience at Nissan North America, Inc., where she served as senior vice president of research and development. Ms. Bailo also spent 10 years at General Motors. She has a MS degree in mechanical engineering from the University of Michigan and a BS degree in mechanical engineering from Kettering University"
+                    }
+                }]
+            },
+            "url": {
+                "rawData": {
+                    "type": "url_slug",
+                    "name": "URL",
+                    "value": "network-infrastructure-is-key-to-smart-cities"
+                },
+                "name": "URL",
+                "type": "url_slug",
+                "value": "network-infrastructure-is-key-to-smart-cities"
+            },
+            "topicsImage": {
+                "rawData": {
+                    "type": "asset",
+                    "name": "Topics Image",
+                    "value": [{
+                        "name": "network-infrastructure-smart-cities_video-still_600x334.jpg",
+                        "description": null,
+                        "type": "image/jpeg",
+                        "size": 52480,
+                        "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/1e71db00-b154-468d-8c11-7002153a5f78/network-infrastructure-smart-cities_video-still_600x334.jpg",
+                        "width": 600,
+                        "height": 334
+                    }]
+                },
+                "name": "Topics Image",
+                "type": "asset",
+                "value": [{
+                    "contract": {
+                        "name": "network-infrastructure-smart-cities_video-still_600x334.jpg",
+                        "description": null,
+                        "type": "image/jpeg",
+                        "size": 52480,
+                        "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/1e71db00-b154-468d-8c11-7002153a5f78/network-infrastructure-smart-cities_video-still_600x334.jpg",
+                        "width": 600,
+                        "height": 334
+                    },
+                    "name": "network-infrastructure-smart-cities_video-still_600x334.jpg",
+                    "type": "image/jpeg",
+                    "size": 52480,
+                    "description": null,
+                    "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/1e71db00-b154-468d-8c11-7002153a5f78/network-infrastructure-smart-cities_video-still_600x334.jpg",
+                    "width": 600,
+                    "height": 334
+                }]
+            }
+        }]
+    },
+    "linkedTopic": {
+        "rawData": {
+            "type": "modular_content",
+            "name": "Linked Topic",
+            "value": ["resilience"]
+        },
+        "name": "Linked Topic",
+        "type": "modular_content",
+        "itemCodenames": ["resilience"],
+        "value": [{
+            "_config": {},
+            "system": {
+                "name": "Resilience",
+                "codename": "resilience",
+                "id": "191a38a9-d6c1-46fc-b672-fba1e8d0561e",
+                "lastModified": "2020-02-06T21:01:48.700Z",
+                "language": "default",
+                "type": "topic",
+                "sitemapLocations": []
+            },
+            "_raw": {
+                "system": {
+                    "id": "191a38a9-d6c1-46fc-b672-fba1e8d0561e",
+                    "name": "Resilience",
+                    "codename": "resilience",
+                    "language": "default",
+                    "type": "topic",
+                    "sitemap_locations": [],
+                    "last_modified": "2020-02-06T21:01:48.7002419Z"
+                },
+                "elements": {
+                    "title": {
+                        "type": "text",
+                        "name": "Title",
+                        "value": "Resilience"
+                    },
+                    "background_image": {
+                        "type": "asset",
+                        "name": "Background Image",
+                        "value": []
+                    },
+                    "hero_text": {
+                        "type": "text",
+                        "name": "Hero Text",
+                        "value": "Discover the resilience technologies helping countries and municipalities with preparedness, responsiveness and recovery for a more secure world."
+                    },
+                    "key_locations": {
+                        "type": "modular_content",
+                        "name": "Key Locations",
+                        "value": []
+                    },
+                    "schedule_and_exhibitor_items": {
+                        "type": "rich_text",
+                        "name": "Schedule and Exhibitor Items",
+                        "images": {},
+                        "links": {},
+                        "modular_content": [],
+                        "value": "<p><br></p>"
+                    },
+                    "featured_section_content": {
+                        "type": "modular_content",
+                        "name": "Featured Section Content",
+                        "value": []
+                    },
+                    "more_about_text": {
+                        "type": "text",
+                        "name": "More About Text",
+                        "value": "Resilient technologies are those that, even in the face of adversity, keep the world healthy, safe, warm, powered, fed and secure. Resilience at CES will cover these technologies and topics including communication and redundancies, energy, water crises, cybersecurity, health, and disaster recovery."
+                    },
+                    "callout_statistic": {
+                        "type": "text",
+                        "name": "Callout Statistic",
+                        "value": "3,500+"
+                    },
+                    "callout_text": {
+                        "type": "text",
+                        "name": "Callout Text",
+                        "value": "government professionals attend CES"
+                    },
+                    "case_study_content": {
+                        "type": "modular_content",
+                        "name": "Case Study Content",
+                        "value": []
+                    },
+                    "latest_section_content": {
+                        "type": "modular_content",
+                        "name": "Latest Section Content",
+                        "value": []
+                    },
+                    "linked_videos": {
+                        "type": "modular_content",
+                        "name": "Linked Videos",
+                        "value": []
+                    },
+                    "linked_topic": {
+                        "type": "modular_content",
+                        "name": "Linked Topic",
+                        "value": []
+                    },
+                    "url": {
+                        "type": "url_slug",
+                        "name": "URL",
+                        "value": "resilience"
+                    },
+                    "topics_image": {
+                        "type": "asset",
+                        "name": "Topics Image",
+                        "value": [{
+                            "name": "resilience_860.png",
+                            "description": null,
+                            "type": "image/png",
+                            "size": 166279,
+                            "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/9d66789c-0363-4f64-9cfe-054025109c60/resilience_860.png",
+                            "width": 860,
+                            "height": 587
+                        }]
+                    }
+                }
+            },
+            "title": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Title",
+                    "value": "Resilience"
+                },
+                "name": "Title",
+                "type": "text",
+                "value": "Resilience"
+            },
+            "backgroundImage": {
+                "rawData": {
+                    "type": "asset",
+                    "name": "Background Image",
+                    "value": []
+                },
+                "name": "Background Image",
+                "type": "asset",
+                "value": []
+            },
+            "heroText": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Hero Text",
+                    "value": "Discover the resilience technologies helping countries and municipalities with preparedness, responsiveness and recovery for a more secure world."
+                },
+                "name": "Hero Text",
+                "type": "text",
+                "value": "Discover the resilience technologies helping countries and municipalities with preparedness, responsiveness and recovery for a more secure world."
+            },
+            "keyLocations": {
+                "rawData": {
+                    "type": "modular_content",
+                    "name": "Key Locations",
+                    "value": []
+                },
+                "name": "Key Locations",
+                "type": "modular_content",
+                "itemCodenames": [],
+                "value": []
+            },
+            "schedule_and_exhibitor_items": {
+                "rawData": {
+                    "type": "rich_text",
+                    "name": "Schedule and Exhibitor Items",
+                    "images": {},
+                    "links": {},
+                    "modular_content": [],
+                    "value": "<p><br></p>"
+                },
+                "name": "Schedule and Exhibitor Items",
+                "type": "rich_text",
+                "linkedItemCodenames": [],
+                "links": [],
+                "images": [],
+                "value": "<p><br></p>"
+            },
+            "featured_section_content": {
+                "rawData": {
+                    "type": "modular_content",
+                    "name": "Featured Section Content",
+                    "value": []
+                },
+                "name": "Featured Section Content",
+                "type": "modular_content",
+                "itemCodenames": [],
+                "value": []
+            },
+            "more_about_text": {
+                "rawData": {
+                    "type": "text",
+                    "name": "More About Text",
+                    "value": "Resilient technologies are those that, even in the face of adversity, keep the world healthy, safe, warm, powered, fed and secure. Resilience at CES will cover these technologies and topics including communication and redundancies, energy, water crises, cybersecurity, health, and disaster recovery."
+                },
+                "name": "More About Text",
+                "type": "text",
+                "value": "Resilient technologies are those that, even in the face of adversity, keep the world healthy, safe, warm, powered, fed and secure. Resilience at CES will cover these technologies and topics including communication and redundancies, energy, water crises, cybersecurity, health, and disaster recovery."
+            },
+            "calloutStatistic": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Callout Statistic",
+                    "value": "3,500+"
+                },
+                "name": "Callout Statistic",
+                "type": "text",
+                "value": "3,500+"
+            },
+            "calloutText": {
+                "rawData": {
+                    "type": "text",
+                    "name": "Callout Text",
+                    "value": "government professionals attend CES"
+                },
+                "name": "Callout Text",
+                "type": "text",
+                "value": "government professionals attend CES"
+            },
+            "case_study_content": {
+                "rawData": {
+                    "type": "modular_content",
+                    "name": "Case Study Content",
+                    "value": []
+                },
+                "name": "Case Study Content",
+                "type": "modular_content",
+                "itemCodenames": [],
+                "value": []
+            },
+            "latest_section_content": {
+                "rawData": {
+                    "type": "modular_content",
+                    "name": "Latest Section Content",
+                    "value": []
+                },
+                "name": "Latest Section Content",
+                "type": "modular_content",
+                "itemCodenames": [],
+                "value": []
+            },
+            "linkedVideos": {
+                "rawData": {
+                    "type": "modular_content",
+                    "name": "Linked Videos",
+                    "value": []
+                },
+                "name": "Linked Videos",
+                "type": "modular_content",
+                "itemCodenames": [],
+                "value": []
+            },
+            "linkedTopic": {
+                "rawData": {
+                    "type": "modular_content",
+                    "name": "Linked Topic",
+                    "value": []
+                },
+                "name": "Linked Topic",
+                "type": "modular_content",
+                "itemCodenames": [],
+                "value": []
+            },
+            "url": {
+                "rawData": {
+                    "type": "url_slug",
+                    "name": "URL",
+                    "value": "resilience"
+                },
+                "name": "URL",
+                "type": "url_slug",
+                "value": "resilience"
+            },
+            "topics_image": {
+                "rawData": {
+                    "type": "asset",
+                    "name": "Topics Image",
+                    "value": [{
+                        "name": "resilience_860.png",
+                        "description": null,
+                        "type": "image/png",
+                        "size": 166279,
+                        "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/9d66789c-0363-4f64-9cfe-054025109c60/resilience_860.png",
+                        "width": 860,
+                        "height": 587
+                    }]
+                },
+                "name": "Topics Image",
+                "type": "asset",
+                "value": [{
+                    "contract": {
+                        "name": "resilience_860.png",
+                        "description": null,
+                        "type": "image/png",
+                        "size": 166279,
+                        "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/9d66789c-0363-4f64-9cfe-054025109c60/resilience_860.png",
+                        "width": 860,
+                        "height": 587
+                    },
+                    "name": "resilience_860.png",
+                    "type": "image/png",
+                    "size": 166279,
+                    "description": null,
+                    "url": "https://assets-us-01.kc-usercontent.com:443/4cd5c917-1a64-00dc-9244-48bbf6ac2ca9/9d66789c-0363-4f64-9cfe-054025109c60/resilience_860.png",
+                    "width": 860,
+                    "height": 587
+                }]
+            }
+        }]
+    },
+    "url": {
+        "rawData": {
+            "type": "url_slug",
+            "name": "URL",
+            "value": "smart-cities"
+        },
+        "name": "URL",
+        "type": "url_slug",
+        "value": "smart-cities"
+    },
+    "topics_image": {
+        "rawData": {
+            "type": "asset",
+            "name": "Topics Image",
+            "value": []
+        },
+        "name": "Topics Image",
+        "type": "asset",
+        "value": []
+    }
+}

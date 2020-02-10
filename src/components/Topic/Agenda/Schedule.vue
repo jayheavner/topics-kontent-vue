@@ -21,20 +21,16 @@
 </template>
 
 <script>
-import { flatten } from "../models/schedule_item";
-
 export default {
-  name: "ScheduleItem",
+  name: "Schedule",
   props: {
-    scheduleData: Array
+    schedule: [Object, Array]
   },
   data: () => ({ content: "" }),
-  mounted: function() {
-    this.content = flatten(this.scheduleData);
+  watch: {
+    schedule() {
+      this.content = this.schedule;
+    }
   },
-  errorCaptured(err, vm, info) {
-    console.log(`cat EC: ${err.toString()}\ninfo: ${info}`);
-    return false;
-  }
 };
 </script>
